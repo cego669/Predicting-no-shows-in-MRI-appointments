@@ -1,0 +1,2100 @@
+Iteration 1:
+Params: {'clf__iterations': 204, 'clf__depth': 11, 'clf__learning_rate': 0.08232151273271296, 'clf__l2_leaf_reg': 0.004797516940284793, 'clf__bagging_temperature': 0.5150438815204251, 'clf__rsm': 0.6573098005383763, 'clf__border_count': 59, 'clf__random_strength': 0.7606868098636929, 'clf__scale_pos_weight': 33.52649211967152}
+Scores: (0.07150042802766328, 0.1039351195510305, 0.10143780476757072, 0.17407964122517883, 0.15428467123250594, 0.23139988286481603, 0.3905424711498618)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2205
+Weighted Std: 0.1078
+
+Iteration 2:
+Params: {'clf__iterations': 118, 'clf__depth': 5, 'clf__learning_rate': 0.0916907802572741, 'clf__l2_leaf_reg': 0.005458283125367443, 'clf__bagging_temperature': 0.2811045670017514, 'clf__rsm': 0.3448514376202043, 'clf__border_count': 25, 'clf__random_strength': 0.17441903747133505, 'clf__scale_pos_weight': 29.050324864747225}
+Scores: (0.055483968226707765, 0.0938747502417823, 0.10695850981426402, 0.19087155496854805, 0.18139461665000114, 0.3262555949291681, 0.4285571571068112)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2569
+Weighted Std: 0.1257
+
+Iteration 3:
+Params: {'clf__iterations': 168, 'clf__depth': 15, 'clf__learning_rate': 0.5672718566224166, 'clf__l2_leaf_reg': 2.5412625386411084e-05, 'clf__bagging_temperature': 0.9612569008469687, 'clf__rsm': 0.39139129804960404, 'clf__border_count': 15, 'clf__random_strength': 0.3865679644096901, 'clf__scale_pos_weight': 34.568909731478804}
+Scores: (0.06764719101734255, 0.0890250596714891, 0.10410086026622442, 0.07331105884443953, 0.08729600881190769, 0.1384391772446938, 0.16531872935070852)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1170
+Weighted Std: 0.0357
+
+Iteration 4:
+Params: {'clf__iterations': 63, 'clf__depth': 2, 'clf__learning_rate': 0.10783151032180636, 'clf__l2_leaf_reg': 1.5846881857695136, 'clf__bagging_temperature': 1.194756662610731, 'clf__rsm': 0.8405560214620346, 'clf__border_count': 50, 'clf__random_strength': 0.2557307057312986, 'clf__scale_pos_weight': 35.5639936020983}
+Scores: (0.061987383744577684, 0.12226969677637232, 0.1130925159495176, 0.18682501720728314, 0.21234200086850094, 0.2839087245817204, 0.4728547380081265)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2667
+Weighted Std: 0.1328
+
+Iteration 5:
+Params: {'clf__iterations': 130, 'clf__depth': 13, 'clf__learning_rate': 0.00019510687539186567, 'clf__l2_leaf_reg': 0.012375480407979748, 'clf__bagging_temperature': 1.2911419155423223, 'clf__rsm': 0.8377447888157198, 'clf__border_count': 43, 'clf__random_strength': 0.31918755077231836, 'clf__scale_pos_weight': 31.64256870464439}
+Scores: (0.10324459067419786, 0.11085236926802881, 0.14700171556416805, 0.13588991519069024, 0.1799928916505546, 0.2776213611810162, 0.3745917693135133)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2320
+Weighted Std: 0.0987
+
+Iteration 6:
+Params: {'clf__iterations': 256, 'clf__depth': 13, 'clf__learning_rate': 0.007744454004867425, 'clf__l2_leaf_reg': 0.465231455140125, 'clf__bagging_temperature': 1.4751431179451098, 'clf__rsm': 0.9328153122976272, 'clf__border_count': 46, 'clf__random_strength': 0.9792599885467234, 'clf__scale_pos_weight': 29.359902345947507}
+Scores: (0.06552523770781779, 0.11648547217897895, 0.12721673479162107, 0.24918239542276102, 0.1735963413836249, 0.26050058184570973, 0.396055882830125)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2457
+Weighted Std: 0.1024
+
+Iteration 7:
+Params: {'clf__iterations': 51, 'clf__depth': 11, 'clf__learning_rate': 0.6979391440458484, 'clf__l2_leaf_reg': 0.031119264360815087, 'clf__bagging_temperature': 0.2500706403365463, 'clf__rsm': 0.9095017755349621, 'clf__border_count': 44, 'clf__random_strength': 0.35096248635766175, 'clf__scale_pos_weight': 4.336713121013521}
+Scores: (0.05924238642813104, 0.09273962099902841, 0.10738529091267345, 0.09655571301451579, 0.11989381752222021, 0.20133332197017156, 0.3331439617177913)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1819
+Weighted Std: 0.0961
+
+Iteration 8:
+Params: {'clf__iterations': 42, 'clf__depth': 14, 'clf__learning_rate': 0.22606189804261365, 'clf__l2_leaf_reg': 0.001180085290077562, 'clf__bagging_temperature': 0.5687935992356848, 'clf__rsm': 0.8253815249037538, 'clf__border_count': 5, 'clf__random_strength': 0.146186628872412, 'clf__scale_pos_weight': 18.650006541074678}
+Scores: (0.06862379250516493, 0.09972095601511409, 0.10302746464018689, 0.107529707059288, 0.13653591636190596, 0.1427512084855329, 0.26982250586870005)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1584
+Weighted Std: 0.0669
+
+Iteration 9:
+Params: {'clf__iterations': 180, 'clf__depth': 13, 'clf__learning_rate': 1.0357803389906602e-05, 'clf__l2_leaf_reg': 3.2677370082418824e-05, 'clf__bagging_temperature': 0.09991705233476192, 'clf__rsm': 0.7188969535190814, 'clf__border_count': 35, 'clf__random_strength': 0.3046386946595619, 'clf__scale_pos_weight': 28.605399156414776}
+Scores: (0.09665904652727093, 0.13816721167746024, 0.15548139091436425, 0.1510190326766613, 0.1932194623629389, 0.29556195184965844, 0.38170801141157834)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2448
+Weighted Std: 0.0971
+
+Iteration 10:
+Params: {'clf__iterations': 266, 'clf__depth': 11, 'clf__learning_rate': 4.0059361263825804e-05, 'clf__l2_leaf_reg': 0.3632516403038323, 'clf__bagging_temperature': 0.570407927134332, 'clf__rsm': 0.8185978119530801, 'clf__border_count': 31, 'clf__random_strength': 0.9045346871273973, 'clf__scale_pos_weight': 35.90616368151716}
+Scores: (0.07366056418578476, 0.12854402570648815, 0.1005569441610836, 0.2063805700286367, 0.15486853582684304, 0.2004113592664915, 0.3034043031840853)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1985
+Weighted Std: 0.0710
+
+Iteration 11:
+Params: {'clf__iterations': 163, 'clf__depth': 15, 'clf__learning_rate': 0.013991871804569829, 'clf__l2_leaf_reg': 0.6619326159626224, 'clf__bagging_temperature': 1.0152122989089036, 'clf__rsm': 0.7936936445267223, 'clf__border_count': 18, 'clf__random_strength': 0.6085908257029912, 'clf__scale_pos_weight': 13.586844536827357}
+Scores: (0.07275356439180425, 0.11768720620946416, 0.11903620111765856, 0.15650354265612357, 0.16670025282866063, 0.2563422353238452, 0.4171239771078282)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2351
+Weighted Std: 0.1160
+
+Iteration 12:
+Params: {'clf__iterations': 146, 'clf__depth': 3, 'clf__learning_rate': 0.0001594403720932035, 'clf__l2_leaf_reg': 0.07421745650440847, 'clf__bagging_temperature': 1.3100743638970314, 'clf__rsm': 0.6378989397651659, 'clf__border_count': 55, 'clf__random_strength': 0.4021141218330646, 'clf__scale_pos_weight': 2.203222967790779}
+Scores: (0.07319035553555497, 0.11866674958474253, 0.11049225506287189, 0.11317942431443678, 0.1664811035717915, 0.25361695486014646, 0.38939379751730596)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2205
+Weighted Std: 0.1111
+
+Iteration 13:
+Params: {'clf__iterations': 203, 'clf__depth': 4, 'clf__learning_rate': 0.00010311806822361911, 'clf__l2_leaf_reg': 0.4488395516910974, 'clf__bagging_temperature': 0.45259307870252774, 'clf__rsm': 0.752416314359328, 'clf__border_count': 12, 'clf__random_strength': 0.5881596622733539, 'clf__scale_pos_weight': 10.281121562542769}
+Scores: (0.073413078405692, 0.141971367404152, 0.14323593072136043, 0.1949895687550485, 0.20769231385432443, 0.2642470612517355, 0.4359601849059631)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2587
+Weighted Std: 0.1120
+
+Iteration 14:
+Params: {'clf__iterations': 27, 'clf__depth': 12, 'clf__learning_rate': 0.007155055336404335, 'clf__l2_leaf_reg': 2.0371434705776172, 'clf__bagging_temperature': 0.21002185925153777, 'clf__rsm': 0.6545053343666034, 'clf__border_count': 41, 'clf__random_strength': 0.33347418300949366, 'clf__scale_pos_weight': 38.656490124293406}
+Scores: (0.07433198979094374, 0.13678116127032675, 0.12887445873709855, 0.13025523654373117, 0.14827506135933702, 0.25587474393335896, 0.3483507092600344)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2132
+Weighted Std: 0.0925
+
+Iteration 15:
+Params: {'clf__iterations': 29, 'clf__depth': 5, 'clf__learning_rate': 0.13465341662105143, 'clf__l2_leaf_reg': 0.02070691470562114, 'clf__bagging_temperature': 0.46894322160115876, 'clf__rsm': 0.5838221142003943, 'clf__border_count': 50, 'clf__random_strength': 0.21305062722090667, 'clf__scale_pos_weight': 35.24062718727074}
+Scores: (0.06247103307615553, 0.11854165828606487, 0.10899323954278216, 0.1600412669741754, 0.1857265542920079, 0.2997210630594876, 0.41432035128006994)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2462
+Weighted Std: 0.1174
+
+Iteration 16:
+Params: {'clf__iterations': 261, 'clf__depth': 11, 'clf__learning_rate': 0.0014644729507893668, 'clf__l2_leaf_reg': 1.7365996666451256, 'clf__bagging_temperature': 0.2588441864619722, 'clf__rsm': 0.8886776271306935, 'clf__border_count': 6, 'clf__random_strength': 0.8815113450452856, 'clf__scale_pos_weight': 2.0848384012842334}
+Scores: (0.08191958828302785, 0.11350264177712019, 0.10621776448622675, 0.19083932024994693, 0.19931544383534777, 0.25921350697840506, 0.40994507821400344)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2433
+Weighted Std: 0.1090
+
+Iteration 17:
+Params: {'clf__iterations': 215, 'clf__depth': 15, 'clf__learning_rate': 0.3690453973803486, 'clf__l2_leaf_reg': 0.00014270743983882208, 'clf__bagging_temperature': 0.8747205577008643, 'clf__rsm': 0.44421999278626056, 'clf__border_count': 6, 'clf__random_strength': 0.1129044868844559, 'clf__scale_pos_weight': 11.93858138892}
+Scores: (0.05921566179112833, 0.0947231294298265, 0.10191846845245292, 0.10003938748615503, 0.10718796855254914, 0.1499949686248866, 0.2075338134950431)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1373
+Weighted Std: 0.0459
+
+Iteration 18:
+Params: {'clf__iterations': 47, 'clf__depth': 3, 'clf__learning_rate': 0.00014440363341413547, 'clf__l2_leaf_reg': 3.0589472075545947, 'clf__bagging_temperature': 1.8797653646210113, 'clf__rsm': 0.9976569060064358, 'clf__border_count': 9, 'clf__random_strength': 0.2992490757646786, 'clf__scale_pos_weight': 28.797959704747505}
+Scores: (0.07383187791582088, 0.118471962002859, 0.13964524867957373, 0.11499109449846323, 0.20009221717555753, 0.27965240012106846, 0.3930156512084704)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2364
+Weighted Std: 0.1087
+
+Iteration 19:
+Params: {'clf__iterations': 25, 'clf__depth': 2, 'clf__learning_rate': 0.6718344402731975, 'clf__l2_leaf_reg': 0.0037125656978790125, 'clf__bagging_temperature': 0.3241047278068195, 'clf__rsm': 0.5437626782606448, 'clf__border_count': 46, 'clf__random_strength': 0.2577485361898911, 'clf__scale_pos_weight': 33.97970677756564}
+Scores: (0.08268500754068994, 0.1128299875383387, 0.1141313321717071, 0.172936754406487, 0.1807835389031017, 0.26576064912874214, 0.3382425537193686)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2217
+Weighted Std: 0.0850
+
+Iteration 20:
+Params: {'clf__iterations': 278, 'clf__depth': 10, 'clf__learning_rate': 0.0076708989783317695, 'clf__l2_leaf_reg': 0.009692765645040709, 'clf__bagging_temperature': 1.4547665497837228, 'clf__rsm': 0.7467038612170401, 'clf__border_count': 28, 'clf__random_strength': 0.6029494521396185, 'clf__scale_pos_weight': 2.1092551372112185}
+Scores: (0.09259529766106638, 0.1342722431174547, 0.12639260946651726, 0.2419371693566847, 0.19572891994693192, 0.35701194957619514, 0.4929851313964585)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2957
+Weighted Std: 0.1383
+
+Iteration 21:
+Params: {'clf__iterations': 46, 'clf__depth': 8, 'clf__learning_rate': 0.014866044465082131, 'clf__l2_leaf_reg': 0.00012569632072812883, 'clf__bagging_temperature': 0.48272510434282834, 'clf__rsm': 0.35177553268730044, 'clf__border_count': 56, 'clf__random_strength': 0.3843790906143927, 'clf__scale_pos_weight': 39.8229524079964}
+Scores: (0.05693609468856979, 0.08940361783895998, 0.12411746051044079, 0.112428680066826, 0.16318215877057604, 0.25206114123597373, 0.35913720246907066)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2107
+Weighted Std: 0.1018
+
+Iteration 22:
+Params: {'clf__iterations': 243, 'clf__depth': 1, 'clf__learning_rate': 0.7147929575342942, 'clf__l2_leaf_reg': 4.656752057916221, 'clf__bagging_temperature': 1.9868042277437494, 'clf__rsm': 0.8841471520059399, 'clf__border_count': 46, 'clf__random_strength': 0.4295421028557699, 'clf__scale_pos_weight': 38.4671069850632}
+Scores: (0.05977342416202918, 0.10803978171914141, 0.10830771930002624, 0.18694034272788101, 0.18905375705581762, 0.2645200774744013, 0.39192924656877465)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2366
+Weighted Std: 0.1050
+
+Iteration 23:
+Params: {'clf__iterations': 46, 'clf__depth': 11, 'clf__learning_rate': 0.010032272311063233, 'clf__l2_leaf_reg': 0.0001264685060265431, 'clf__bagging_temperature': 1.2253301038576103, 'clf__rsm': 0.7489019444938111, 'clf__border_count': 58, 'clf__random_strength': 0.21277128998024292, 'clf__scale_pos_weight': 2.326899423729189}
+Scores: (0.09016345652636776, 0.12524546906182535, 0.1282745768107053, 0.12544419828662015, 0.17376351536187026, 0.22574445551872468, 0.47289562176519556)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2415
+Weighted Std: 0.1391
+
+Iteration 24:
+Params: {'clf__iterations': 143, 'clf__depth': 10, 'clf__learning_rate': 5.682738484684909e-05, 'clf__l2_leaf_reg': 0.00011386406936657897, 'clf__bagging_temperature': 0.28921906363678135, 'clf__rsm': 0.34991053488684654, 'clf__border_count': 4, 'clf__random_strength': 0.9542754107634092, 'clf__scale_pos_weight': 5.3689023932371045}
+Scores: (0.0750964431834945, 0.10728311098063895, 0.12418613595548371, 0.14192425534983444, 0.171795849051861, 0.2625535076600069, 0.341263608930031)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2162
+Weighted Std: 0.0893
+
+Iteration 25:
+Params: {'clf__iterations': 50, 'clf__depth': 9, 'clf__learning_rate': 0.0008542411231446379, 'clf__l2_leaf_reg': 0.00463667438312696, 'clf__bagging_temperature': 1.4240194092063305, 'clf__rsm': 0.8358824275487599, 'clf__border_count': 63, 'clf__random_strength': 0.033232164336273746, 'clf__scale_pos_weight': 42.55763413495533}
+Scores: (0.10257718352102373, 0.10179354085193273, 0.13688696442656423, 0.13987362958128302, 0.1795026303237201, 0.29474223583428216, 0.3933154252068117)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2391
+Weighted Std: 0.1085
+
+Iteration 26:
+Params: {'clf__iterations': 257, 'clf__depth': 13, 'clf__learning_rate': 1.0841607804676742e-05, 'clf__l2_leaf_reg': 0.06102070893014384, 'clf__bagging_temperature': 1.0051661513313264, 'clf__rsm': 0.3663510862631306, 'clf__border_count': 53, 'clf__random_strength': 0.84071891243299, 'clf__scale_pos_weight': 5.46946486348616}
+Scores: (0.07609998593488915, 0.14057979735057602, 0.12501953908660382, 0.25141994465593, 0.19968129924784767, 0.313596110561052, 0.4328629945585284)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2731
+Weighted Std: 0.1129
+
+Iteration 27:
+Params: {'clf__iterations': 237, 'clf__depth': 15, 'clf__learning_rate': 0.006169229575878087, 'clf__l2_leaf_reg': 0.006722478773757668, 'clf__bagging_temperature': 0.8034505203073514, 'clf__rsm': 0.3603741434055735, 'clf__border_count': 42, 'clf__random_strength': 0.1811779289029334, 'clf__scale_pos_weight': 45.153652451994475}
+Scores: (0.08154814224327489, 0.10590313935117646, 0.11743754734437602, 0.21638118845344007, 0.1898042647328889, 0.27194797306667345, 0.3862128693329885)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2427
+Weighted Std: 0.0994
+
+Iteration 28:
+Params: {'clf__iterations': 75, 'clf__depth': 7, 'clf__learning_rate': 0.0009961813630656692, 'clf__l2_leaf_reg': 0.08522521594386587, 'clf__bagging_temperature': 0.9469204942161633, 'clf__rsm': 0.9569600929346006, 'clf__border_count': 47, 'clf__random_strength': 0.555079291817016, 'clf__scale_pos_weight': 37.490286073729514}
+Scores: (0.061503320077469795, 0.08875528075826362, 0.12309173823391327, 0.12129633804295079, 0.16479059699317702, 0.214839427987709, 0.2742718627766918)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1831
+Weighted Std: 0.0667
+
+Iteration 29:
+Params: {'clf__iterations': 87, 'clf__depth': 10, 'clf__learning_rate': 0.0030039632917688843, 'clf__l2_leaf_reg': 0.29210633910969946, 'clf__bagging_temperature': 1.961790855370967, 'clf__rsm': 0.7175126171831495, 'clf__border_count': 37, 'clf__random_strength': 0.5930165076151112, 'clf__scale_pos_weight': 14.876271305324781}
+Scores: (0.07868677498284882, 0.1342121733243678, 0.16441211294939626, 0.192253164727964, 0.21292417357271015, 0.3023467280969203, 0.41441162424276373)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2639
+Weighted Std: 0.1033
+
+Iteration 30:
+Params: {'clf__iterations': 94, 'clf__depth': 3, 'clf__learning_rate': 0.0048214228521785635, 'clf__l2_leaf_reg': 0.00023587360813692504, 'clf__bagging_temperature': 1.4220878574587, 'clf__rsm': 0.25494754529603786, 'clf__border_count': 13, 'clf__random_strength': 0.2130024845732043, 'clf__scale_pos_weight': 6.079865827234883}
+Scores: (0.06455577885157832, 0.12484024744056076, 0.14160383345641075, 0.15177168891398912, 0.19511144656715723, 0.28175107027030366, 0.43040725071399427)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2509
+Weighted Std: 0.1178
+
+Iteration 31:
+Params: {'clf__iterations': 142, 'clf__depth': 4, 'clf__learning_rate': 0.00011543806395916562, 'clf__l2_leaf_reg': 4.746284080716283e-05, 'clf__bagging_temperature': 1.5231424710446055, 'clf__rsm': 0.43507708608198725, 'clf__border_count': 50, 'clf__random_strength': 0.11564596335630309, 'clf__scale_pos_weight': 34.68268660121983}
+Scores: (0.061882352011594505, 0.1285591479630148, 0.13744892902517725, 0.13993103454228714, 0.18359994773718474, 0.27326956551545734, 0.38012511317503)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2325
+Weighted Std: 0.1012
+
+Iteration 32:
+Params: {'clf__iterations': 273, 'clf__depth': 13, 'clf__learning_rate': 0.009057435516083182, 'clf__l2_leaf_reg': 8.602188922085997e-05, 'clf__bagging_temperature': 0.5625755044354531, 'clf__rsm': 0.4884736360735972, 'clf__border_count': 5, 'clf__random_strength': 0.4404046733020224, 'clf__scale_pos_weight': 10.046178305277445}
+Scores: (0.07442340594233474, 0.1216817969291614, 0.12480100707671324, 0.2665069812460424, 0.21169956401527357, 0.2596097952602121, 0.3919240337209521)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2542
+Weighted Std: 0.0964
+
+Iteration 33:
+Params: {'clf__iterations': 20, 'clf__depth': 9, 'clf__learning_rate': 0.016683312685927952, 'clf__l2_leaf_reg': 8.911726501218578, 'clf__bagging_temperature': 1.6207422353097651, 'clf__rsm': 0.772455395567082, 'clf__border_count': 10, 'clf__random_strength': 0.27788026659084003, 'clf__scale_pos_weight': 9.432995645783093}
+Scores: (0.07631587877545394, 0.1294506983162465, 0.18318710880212444, 0.16036514457292597, 0.21356478443849314, 0.2789737919500233, 0.42060973661605977)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2576
+Weighted Std: 0.1067
+
+Iteration 34:
+Params: {'clf__iterations': 39, 'clf__depth': 10, 'clf__learning_rate': 0.7050249106609705, 'clf__l2_leaf_reg': 0.02294651971737106, 'clf__bagging_temperature': 0.11662500232290987, 'clf__rsm': 0.8707553962433732, 'clf__border_count': 53, 'clf__random_strength': 0.7939389255183099, 'clf__scale_pos_weight': 47.82150028890282}
+Scores: (0.05166347439456089, 0.0844590138938231, 0.11512332150832984, 0.13728637474863833, 0.12812304838791339, 0.18627339589743408, 0.2578476573993431)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1671
+Weighted Std: 0.0616
+
+Iteration 35:
+Params: {'clf__iterations': 125, 'clf__depth': 5, 'clf__learning_rate': 0.07849772858162876, 'clf__l2_leaf_reg': 0.0005359174607264181, 'clf__bagging_temperature': 1.2158615677774978, 'clf__rsm': 0.9082632819373307, 'clf__border_count': 60, 'clf__random_strength': 0.09317927376564485, 'clf__scale_pos_weight': 7.2626263423622275}
+Scores: (0.07320038134851241, 0.09235057616718158, 0.11401361391518991, 0.17579552653087632, 0.2052038427507522, 0.3234629988712015, 0.46811160189784545)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2695
+Weighted Std: 0.1367
+
+Iteration 36:
+Params: {'clf__iterations': 300, 'clf__depth': 3, 'clf__learning_rate': 0.00023498147327906141, 'clf__l2_leaf_reg': 0.0036136554386513586, 'clf__bagging_temperature': 1.4819358133868177, 'clf__rsm': 0.5030789388437948, 'clf__border_count': 63, 'clf__random_strength': 0.6279973127961292, 'clf__scale_pos_weight': 43.797263878308364}
+Scores: (0.06108900106785263, 0.11187068254674658, 0.1013009225278001, 0.12279268050542674, 0.15790348723239686, 0.18095517694501045, 0.2935904811792289)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1789
+Weighted Std: 0.0727
+
+Iteration 37:
+Params: {'clf__iterations': 206, 'clf__depth': 1, 'clf__learning_rate': 0.006513825981252445, 'clf__l2_leaf_reg': 0.07562389820013621, 'clf__bagging_temperature': 1.4759143209614964, 'clf__rsm': 0.28810506299072547, 'clf__border_count': 52, 'clf__random_strength': 0.07097627822143117, 'clf__scale_pos_weight': 24.387853483001763}
+Scores: (0.06356098190587474, 0.0986397507958647, 0.11881081917911573, 0.10249454481653969, 0.17873087308602398, 0.20304898071836147, 0.4000103056720341)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2121
+Weighted Std: 0.1158
+
+Iteration 38:
+Params: {'clf__iterations': 133, 'clf__depth': 5, 'clf__learning_rate': 0.22475617088430536, 'clf__l2_leaf_reg': 0.08058962645869507, 'clf__bagging_temperature': 0.286973260735453, 'clf__rsm': 0.11982430940266058, 'clf__border_count': 59, 'clf__random_strength': 0.8403116992999702, 'clf__scale_pos_weight': 46.05388741200459}
+Scores: (0.05993934408920403, 0.10252742196461485, 0.11124306578689672, 0.15163211034567564, 0.17407035574770993, 0.17602676103335785, 0.32655829298943434)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1935
+Weighted Std: 0.0822
+
+Iteration 39:
+Params: {'clf__iterations': 201, 'clf__depth': 4, 'clf__learning_rate': 0.020140004556216333, 'clf__l2_leaf_reg': 0.0025403733573309355, 'clf__bagging_temperature': 1.7158946561922452, 'clf__rsm': 0.8903905862222652, 'clf__border_count': 35, 'clf__random_strength': 0.7234317743813229, 'clf__scale_pos_weight': 4.399187013978429}
+Scores: (0.07905153525058954, 0.1179681759850433, 0.12573810091291027, 0.24486232780308637, 0.22466314160812723, 0.35083190309217605, 0.5063056502776655)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3016
+Weighted Std: 0.1414
+
+Iteration 40:
+Params: {'clf__iterations': 297, 'clf__depth': 9, 'clf__learning_rate': 0.0242390810278175, 'clf__l2_leaf_reg': 0.001051362848676499, 'clf__bagging_temperature': 1.6886030166629344, 'clf__rsm': 0.12940924818940597, 'clf__border_count': 53, 'clf__random_strength': 0.4368692486051332, 'clf__scale_pos_weight': 22.622326996504942}
+Scores: (0.08117043396101598, 0.10340563168922068, 0.10870491824996893, 0.20461445673681625, 0.17023744472631702, 0.23527851427288182, 0.39834260012535283)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2316
+Weighted Std: 0.1064
+
+Iteration 41:
+Params: {'clf__iterations': 252, 'clf__depth': 2, 'clf__learning_rate': 0.06512072389351753, 'clf__l2_leaf_reg': 6.236929115529567e-05, 'clf__bagging_temperature': 1.5009451408469936, 'clf__rsm': 0.5830994664065707, 'clf__border_count': 16, 'clf__random_strength': 0.3514063915456615, 'clf__scale_pos_weight': 6.023636319072313}
+Scores: (0.07969513851887544, 0.12107190261844197, 0.12047308662697055, 0.21853940868227453, 0.22695522854102956, 0.2729988408357251, 0.3947567127080394)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2533
+Weighted Std: 0.0980
+
+Iteration 42:
+Params: {'clf__iterations': 133, 'clf__depth': 2, 'clf__learning_rate': 0.0007655798005518975, 'clf__l2_leaf_reg': 0.04455351712171239, 'clf__bagging_temperature': 1.056761946551319, 'clf__rsm': 0.38369951125046053, 'clf__border_count': 59, 'clf__random_strength': 0.6513146614876474, 'clf__scale_pos_weight': 44.89763782554957}
+Scores: (0.06267506835434421, 0.10953432605987536, 0.10133938734835153, 0.10759917751772621, 0.16144532408997359, 0.23782101045650608, 0.25565188994741095)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1800
+Weighted Std: 0.0668
+
+Iteration 43:
+Params: {'clf__iterations': 200, 'clf__depth': 8, 'clf__learning_rate': 0.022016070618887253, 'clf__l2_leaf_reg': 0.0005932088588999955, 'clf__bagging_temperature': 1.119462869853136, 'clf__rsm': 0.16714365724924418, 'clf__border_count': 10, 'clf__random_strength': 0.5436784931347589, 'clf__scale_pos_weight': 14.626563223202494}
+Scores: (0.07997037438268242, 0.11093926732650113, 0.12273141279526606, 0.22183427767245112, 0.1672403742318378, 0.24562209847629646, 0.40020213579500785)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2382
+Weighted Std: 0.1048
+
+Iteration 44:
+Params: {'clf__iterations': 84, 'clf__depth': 2, 'clf__learning_rate': 0.6771576464887883, 'clf__l2_leaf_reg': 0.16624788863519935, 'clf__bagging_temperature': 0.7703998570780444, 'clf__rsm': 0.10461438153269839, 'clf__border_count': 37, 'clf__random_strength': 0.12446034186177327, 'clf__scale_pos_weight': 6.891764984395994}
+Scores: (0.060909347818294275, 0.09588821421768054, 0.10290793688036254, 0.16134501171873394, 0.18930637001703732, 0.2712399103968838, 0.37725932727195627)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2293
+Weighted Std: 0.1039
+
+Iteration 45:
+Params: {'clf__iterations': 18, 'clf__depth': 15, 'clf__learning_rate': 0.0071532205578113545, 'clf__l2_leaf_reg': 0.0007144332273525691, 'clf__bagging_temperature': 1.1993514277438326, 'clf__rsm': 0.6413469937160787, 'clf__border_count': 48, 'clf__random_strength': 0.6551414540655669, 'clf__scale_pos_weight': 39.29166396481885}
+Scores: (0.06325552728280004, 0.09457215687004081, 0.12248416153220826, 0.08492903075481122, 0.1060428305276235, 0.18776101624087757, 0.186654225351374)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1401
+Weighted Std: 0.0454
+
+Iteration 46:
+Params: {'clf__iterations': 240, 'clf__depth': 11, 'clf__learning_rate': 0.020460510617892398, 'clf__l2_leaf_reg': 0.003261023275426737, 'clf__bagging_temperature': 0.36542008889858285, 'clf__rsm': 0.3780346437475651, 'clf__border_count': 29, 'clf__random_strength': 0.9577757030212235, 'clf__scale_pos_weight': 29.991776335302607}
+Scores: (0.06666194939229703, 0.10460158611324878, 0.10726958568981411, 0.17090270136060534, 0.19562348185842482, 0.22143399197708524, 0.3653281515411074)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2195
+Weighted Std: 0.0943
+
+Iteration 47:
+Params: {'clf__iterations': 255, 'clf__depth': 4, 'clf__learning_rate': 5.0589836317440464e-05, 'clf__l2_leaf_reg': 0.005771972600365776, 'clf__bagging_temperature': 1.368788905724285, 'clf__rsm': 0.33720538029083813, 'clf__border_count': 34, 'clf__random_strength': 0.09013290251085483, 'clf__scale_pos_weight': 7.626160530566926}
+Scores: (0.06602653871221595, 0.1272423508474023, 0.1486651920918356, 0.17604598606221045, 0.185294147140748, 0.2994322946171636, 0.47758020199680673)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2692
+Weighted Std: 0.1342
+
+Iteration 48:
+Params: {'clf__iterations': 250, 'clf__depth': 6, 'clf__learning_rate': 0.61441422097884, 'clf__l2_leaf_reg': 2.7474669324098535, 'clf__bagging_temperature': 1.8550483426677389, 'clf__rsm': 0.32371727915323234, 'clf__border_count': 37, 'clf__random_strength': 0.6546841259932844, 'clf__scale_pos_weight': 26.653120178979925}
+Scores: (0.06821979959443078, 0.10852984927058612, 0.111479495581425, 0.11894213540611259, 0.16736206779371346, 0.28855469875771816, 0.3425172105896397)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2165
+Weighted Std: 0.0984
+
+Iteration 49:
+Params: {'clf__iterations': 12, 'clf__depth': 7, 'clf__learning_rate': 3.1639200972962535e-05, 'clf__l2_leaf_reg': 0.007800579805095888, 'clf__bagging_temperature': 1.9193887611811453, 'clf__rsm': 0.29557963247197394, 'clf__border_count': 18, 'clf__random_strength': 0.6268795871023652, 'clf__scale_pos_weight': 26.87868429727451}
+Scores: (0.08015029296797803, 0.11122278332335946, 0.12743336439507014, 0.07904693400757541, 0.13551686046902828, 0.26860773486795914, 0.2807996054102821)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1877
+Weighted Std: 0.0834
+
+Iteration 50:
+Params: {'clf__iterations': 62, 'clf__depth': 7, 'clf__learning_rate': 2.4410280442472455e-05, 'clf__l2_leaf_reg': 0.00010091329159457006, 'clf__bagging_temperature': 0.6548357821039424, 'clf__rsm': 0.9559254932265785, 'clf__border_count': 54, 'clf__random_strength': 0.2418176861241716, 'clf__scale_pos_weight': 36.570871878624736}
+Scores: (0.07590097706700674, 0.10901795244990226, 0.11621582119677623, 0.12008111190175874, 0.1445959603658162, 0.2175958193082836, 0.3822521219254083)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2081
+Weighted Std: 0.1080
+
+Iteration 51:
+Params: {'clf__iterations': 254, 'clf__depth': 7, 'clf__learning_rate': 2.409029336256011e-05, 'clf__l2_leaf_reg': 5.7313473496859144e-05, 'clf__bagging_temperature': 1.78360599455553, 'clf__rsm': 0.7131375534256561, 'clf__border_count': 39, 'clf__random_strength': 0.7432245101447205, 'clf__scale_pos_weight': 15.551736480171623}
+Scores: (0.06337039852911884, 0.11203068721338601, 0.1320825545079286, 0.22739247853465402, 0.19231343010989665, 0.28611135171612034, 0.42688071237012043)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2593
+Weighted Std: 0.1130
+
+Iteration 52:
+Params: {'clf__iterations': 48, 'clf__depth': 7, 'clf__learning_rate': 0.0008885420171827286, 'clf__l2_leaf_reg': 2.2761119983270906e-05, 'clf__bagging_temperature': 1.8609108489841863, 'clf__rsm': 0.5625252995573885, 'clf__border_count': 20, 'clf__random_strength': 0.0641638489562585, 'clf__scale_pos_weight': 46.902421672490746}
+Scores: (0.07202705382932023, 0.10421312370852004, 0.1287762710500009, 0.12632080565737777, 0.1751448186995359, 0.2781296690465408, 0.4029139868206154)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2335
+Weighted Std: 0.1147
+
+Iteration 53:
+Params: {'clf__iterations': 208, 'clf__depth': 13, 'clf__learning_rate': 0.04986073960340859, 'clf__l2_leaf_reg': 0.03208159803865576, 'clf__bagging_temperature': 1.3338981186049808, 'clf__rsm': 0.8462226149001695, 'clf__border_count': 36, 'clf__random_strength': 0.6883307292690334, 'clf__scale_pos_weight': 38.41334444008271}
+Scores: (0.07170738770839835, 0.11293038303099147, 0.10265518668990467, 0.16487710980750558, 0.18273068251087587, 0.27333166750231347, 0.3861286245050626)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2329
+Weighted Std: 0.1054
+
+Iteration 54:
+Params: {'clf__iterations': 117, 'clf__depth': 8, 'clf__learning_rate': 0.050716606205119065, 'clf__l2_leaf_reg': 1.1250841340354912e-05, 'clf__bagging_temperature': 1.3226133245406628, 'clf__rsm': 0.48375890453879034, 'clf__border_count': 9, 'clf__random_strength': 0.49932857474033276, 'clf__scale_pos_weight': 41.14781002183213}
+Scores: (0.06754588291940776, 0.10442834907547403, 0.11977533580339156, 0.13740686862446858, 0.14209858864104397, 0.22983429103975928, 0.3376105391554966)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2014
+Weighted Std: 0.0897
+
+Iteration 55:
+Params: {'clf__iterations': 115, 'clf__depth': 4, 'clf__learning_rate': 0.0002354994415473099, 'clf__l2_leaf_reg': 0.010448739651599565, 'clf__bagging_temperature': 1.665108186489582, 'clf__rsm': 0.2611544011174525, 'clf__border_count': 44, 'clf__random_strength': 0.6996783184407716, 'clf__scale_pos_weight': 32.07206223222468}
+Scores: (0.0673183223113007, 0.11294671286697089, 0.0894433174398042, 0.11610504760788608, 0.16609437366872776, 0.26425384723314477, 0.3105817353854155)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2006
+Weighted Std: 0.0874
+
+Iteration 56:
+Params: {'clf__iterations': 14, 'clf__depth': 16, 'clf__learning_rate': 3.480953082812343e-05, 'clf__l2_leaf_reg': 0.09811269511193717, 'clf__bagging_temperature': 0.9053084957493769, 'clf__rsm': 0.2500804961282742, 'clf__border_count': 52, 'clf__random_strength': 0.6455668672767209, 'clf__scale_pos_weight': 11.306063306022796}
+Scores: (0.07319112205073211, 0.09402880984429363, 0.1224606448126544, 0.10016045901371098, 0.12983553505801454, 0.17848852699167045, 0.33819805557501226)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1827
+Weighted Std: 0.0943
+
+Iteration 57:
+Params: {'clf__iterations': 35, 'clf__depth': 6, 'clf__learning_rate': 0.00044652287973961805, 'clf__l2_leaf_reg': 1.0873061998026459, 'clf__bagging_temperature': 0.3187002379004816, 'clf__rsm': 0.6278751840584625, 'clf__border_count': 4, 'clf__random_strength': 0.5613473885216886, 'clf__scale_pos_weight': 32.06141966796429}
+Scores: (0.0683717117837865, 0.09470306777902375, 0.10896981643830697, 0.12521400640612412, 0.1454803288253739, 0.2342182905132515, 0.28921159095117677)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1872
+Weighted Std: 0.0755
+
+Iteration 58:
+Params: {'clf__iterations': 94, 'clf__depth': 8, 'clf__learning_rate': 0.001875011686152969, 'clf__l2_leaf_reg': 0.00046408352950574373, 'clf__bagging_temperature': 1.2546507136923137, 'clf__rsm': 0.2759375182131448, 'clf__border_count': 41, 'clf__random_strength': 0.3170827429253453, 'clf__scale_pos_weight': 43.744333583323034}
+Scores: (0.07048586268753859, 0.10751090730004964, 0.1029786693730224, 0.10663231759441984, 0.13556596370177987, 0.17842941997534595, 0.2982483740574868)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1735
+Weighted Std: 0.0776
+
+Iteration 59:
+Params: {'clf__iterations': 206, 'clf__depth': 14, 'clf__learning_rate': 0.00040820917044556894, 'clf__l2_leaf_reg': 4.535356848643474, 'clf__bagging_temperature': 1.9921823913095584, 'clf__rsm': 0.3687908384257088, 'clf__border_count': 24, 'clf__random_strength': 0.579476926316176, 'clf__scale_pos_weight': 49.93625029969346}
+Scores: (0.060698674527348596, 0.11134923974820941, 0.1062305528010863, 0.18090714077286296, 0.16328900509389216, 0.24459571458479, 0.3273239087700801)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2108
+Weighted Std: 0.0828
+
+Iteration 60:
+Params: {'clf__iterations': 212, 'clf__depth': 2, 'clf__learning_rate': 8.212050356017838e-05, 'clf__l2_leaf_reg': 0.0003673181148825661, 'clf__bagging_temperature': 0.6927447991084742, 'clf__rsm': 0.14715765221612512, 'clf__border_count': 9, 'clf__random_strength': 0.11112947515650187, 'clf__scale_pos_weight': 46.354500770077415}
+Scores: (0.061994960442836006, 0.11652135754563214, 0.11847618704033677, 0.1072405333174582, 0.15242185210531037, 0.24900764134003012, 0.3302423985057766)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2017
+Weighted Std: 0.0910
+
+Iteration 61:
+Params: {'clf__iterations': 169, 'clf__depth': 5, 'clf__learning_rate': 0.004513245989745721, 'clf__l2_leaf_reg': 0.2687739606306782, 'clf__bagging_temperature': 1.0557249412258007, 'clf__rsm': 0.6648488519032543, 'clf__border_count': 11, 'clf__random_strength': 0.22132969739601566, 'clf__scale_pos_weight': 42.58308880673355}
+Scores: (0.07441016127250838, 0.12460828700156491, 0.13641165672747016, 0.13966619379462183, 0.1881500507153009, 0.28288499213734386, 0.394848891031363)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2391
+Weighted Std: 0.1067
+
+Iteration 62:
+Params: {'clf__iterations': 65, 'clf__depth': 14, 'clf__learning_rate': 0.0045281485641367, 'clf__l2_leaf_reg': 6.725091705721914, 'clf__bagging_temperature': 0.7408490377641807, 'clf__rsm': 0.48911390268280264, 'clf__border_count': 16, 'clf__random_strength': 0.14090849533084063, 'clf__scale_pos_weight': 46.93311996875916}
+Scores: (0.07700716515501854, 0.13408425284811418, 0.1583801984853645, 0.1496283419745334, 0.17060787444986436, 0.25969685030396056, 0.36943677218189186)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2291
+Weighted Std: 0.0930
+
+Iteration 63:
+Params: {'clf__iterations': 217, 'clf__depth': 12, 'clf__learning_rate': 0.00024176654786919104, 'clf__l2_leaf_reg': 6.460411826504356e-05, 'clf__bagging_temperature': 0.7331590864341001, 'clf__rsm': 0.19849365736801242, 'clf__border_count': 32, 'clf__random_strength': 0.18617882232568908, 'clf__scale_pos_weight': 14.15718087118498}
+Scores: (0.09508238572264716, 0.18856440580121925, 0.1536896448667111, 0.2571700104189098, 0.19812911815864612, 0.3280882185812066, 0.45881462912683474)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2905
+Weighted Std: 0.1148
+
+Iteration 64:
+Params: {'clf__iterations': 266, 'clf__depth': 12, 'clf__learning_rate': 3.351547227446035e-05, 'clf__l2_leaf_reg': 0.009631519013240624, 'clf__bagging_temperature': 0.3215690689849094, 'clf__rsm': 0.4445890676820803, 'clf__border_count': 43, 'clf__random_strength': 0.9647287658459832, 'clf__scale_pos_weight': 47.28702779428733}
+Scores: (0.06811258900196486, 0.10826237567104553, 0.09359011882958482, 0.18226264719500646, 0.14643648518533547, 0.20373741628934788, 0.3262179888258397)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1976
+Weighted Std: 0.0835
+
+Iteration 65:
+Params: {'clf__iterations': 169, 'clf__depth': 3, 'clf__learning_rate': 0.0001975466748047816, 'clf__l2_leaf_reg': 0.0882843775859344, 'clf__bagging_temperature': 1.7099202726915177, 'clf__rsm': 0.2752853994118538, 'clf__border_count': 46, 'clf__random_strength': 0.23280792788641408, 'clf__scale_pos_weight': 37.08611517990469}
+Scores: (0.06038856073861796, 0.09879031408465, 0.11919738127742399, 0.13799799009543628, 0.18070224630896964, 0.2801447100657858, 0.3555496849351878)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2229
+Weighted Std: 0.0982
+
+Iteration 66:
+Params: {'clf__iterations': 252, 'clf__depth': 4, 'clf__learning_rate': 0.18453532640437287, 'clf__l2_leaf_reg': 0.0012449196637554305, 'clf__bagging_temperature': 0.6341407367281359, 'clf__rsm': 0.1634105990657084, 'clf__border_count': 25, 'clf__random_strength': 0.15672215104529455, 'clf__scale_pos_weight': 43.062087800989794}
+Scores: (0.084049801692302, 0.08196872257235753, 0.10994165424709096, 0.1457424325008981, 0.16592299392143978, 0.24642909998242343, 0.34095773376012817)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2091
+Weighted Std: 0.0912
+
+Iteration 67:
+Params: {'clf__iterations': 96, 'clf__depth': 5, 'clf__learning_rate': 0.0002069326152951738, 'clf__l2_leaf_reg': 0.00048235094523730064, 'clf__bagging_temperature': 1.0468391165805895, 'clf__rsm': 0.8511600348779176, 'clf__border_count': 36, 'clf__random_strength': 0.9096793851515809, 'clf__scale_pos_weight': 16.03894517913662}
+Scores: (0.0685304896684433, 0.11174109060407986, 0.1289829284876562, 0.18934040262772858, 0.18467913318315773, 0.2823090292919968, 0.44778292878303044)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2567
+Weighted Std: 0.1239
+
+Iteration 68:
+Params: {'clf__iterations': 214, 'clf__depth': 1, 'clf__learning_rate': 0.00015312397898641458, 'clf__l2_leaf_reg': 0.005179761617486814, 'clf__bagging_temperature': 0.9819420720174512, 'clf__rsm': 0.7178444815018398, 'clf__border_count': 8, 'clf__random_strength': 0.8827672425557055, 'clf__scale_pos_weight': 17.993807639152596}
+Scores: (0.059691089450006715, 0.10706610145913739, 0.1224011208621536, 0.1165221074509078, 0.1530152480311526, 0.2165269888726324, 0.39015940532845295)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2108
+Weighted Std: 0.1111
+
+Iteration 69:
+Params: {'clf__iterations': 76, 'clf__depth': 8, 'clf__learning_rate': 0.0095804976585911, 'clf__l2_leaf_reg': 0.00010202557970473914, 'clf__bagging_temperature': 1.8673848299064502, 'clf__rsm': 0.39062966297373014, 'clf__border_count': 62, 'clf__random_strength': 0.49964753105218074, 'clf__scale_pos_weight': 13.530140759502535}
+Scores: (0.06056643258692762, 0.11143643778571077, 0.1234446853433771, 0.14121446333901339, 0.19212494369335115, 0.29240348691368656, 0.4395771001810844)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2504
+Weighted Std: 0.1266
+
+Iteration 70:
+Params: {'clf__iterations': 118, 'clf__depth': 8, 'clf__learning_rate': 0.0003879647673299879, 'clf__l2_leaf_reg': 0.6457441272112086, 'clf__bagging_temperature': 0.06067543786903552, 'clf__rsm': 0.2109353685181239, 'clf__border_count': 16, 'clf__random_strength': 0.4333877761487708, 'clf__scale_pos_weight': 21.130162855986196}
+Scores: (0.06815872758666099, 0.13720113504860232, 0.14873560228946742, 0.1865884891351652, 0.19969050229326554, 0.2509615375608038, 0.39938645418216073)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2441
+Weighted Std: 0.0988
+
+Iteration 71:
+Params: {'clf__iterations': 161, 'clf__depth': 14, 'clf__learning_rate': 0.002065025639158059, 'clf__l2_leaf_reg': 2.4971476324204836e-05, 'clf__bagging_temperature': 0.5854345116604046, 'clf__rsm': 0.4533054424347268, 'clf__border_count': 31, 'clf__random_strength': 0.6600655409597176, 'clf__scale_pos_weight': 46.401838964084}
+Scores: (0.0658692749982614, 0.12275704136365388, 0.15522832278933232, 0.11320552651371343, 0.14520198218289787, 0.2291112011287307, 0.2978902578639503)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1934
+Weighted Std: 0.0737
+
+Iteration 72:
+Params: {'clf__iterations': 57, 'clf__depth': 7, 'clf__learning_rate': 0.0002321046077486546, 'clf__l2_leaf_reg': 0.00044206075009780915, 'clf__bagging_temperature': 1.147415595033059, 'clf__rsm': 0.5887802202431226, 'clf__border_count': 6, 'clf__random_strength': 0.34265285999477163, 'clf__scale_pos_weight': 21.36820994203922}
+Scores: (0.06924796770584166, 0.13645094720888168, 0.1485153025964, 0.1513098416530139, 0.2133392151823748, 0.2789913982646485, 0.3967336715789016)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2468
+Weighted Std: 0.1019
+
+Iteration 73:
+Params: {'clf__iterations': 110, 'clf__depth': 7, 'clf__learning_rate': 0.08456289961472571, 'clf__l2_leaf_reg': 0.0004293012056558106, 'clf__bagging_temperature': 1.4558108140197499, 'clf__rsm': 0.9107080630787185, 'clf__border_count': 7, 'clf__random_strength': 0.9156653393951414, 'clf__scale_pos_weight': 35.21004663307318}
+Scores: (0.06719587937198439, 0.11969040844666742, 0.12972499727563636, 0.15130479751394726, 0.17415686747792647, 0.21372210299418892, 0.3822123401947208)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2189
+Weighted Std: 0.1003
+
+Iteration 74:
+Params: {'clf__iterations': 231, 'clf__depth': 7, 'clf__learning_rate': 0.0008707564392782777, 'clf__l2_leaf_reg': 8.873020473537645e-05, 'clf__bagging_temperature': 1.834710977613645, 'clf__rsm': 0.8062163923571596, 'clf__border_count': 60, 'clf__random_strength': 0.080719984386467, 'clf__scale_pos_weight': 9.66600393740483}
+Scores: (0.07294294205231563, 0.1339467924552865, 0.16965440825552613, 0.20451379727950203, 0.22007636854502077, 0.3079880020298171, 0.47382724871575355)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2833
+Weighted Std: 0.1240
+
+Iteration 75:
+Params: {'clf__iterations': 297, 'clf__depth': 5, 'clf__learning_rate': 3.236999144530481e-05, 'clf__l2_leaf_reg': 0.00030264152842841293, 'clf__bagging_temperature': 0.536874870072091, 'clf__rsm': 0.5119634994160382, 'clf__border_count': 41, 'clf__random_strength': 0.7624193659594336, 'clf__scale_pos_weight': 40.03187586154833}
+Scores: (0.06317335669692074, 0.09840916788234252, 0.09956151728003715, 0.1444270648157365, 0.16232935575156818, 0.21709563387037117, 0.30235153862196706)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1917
+Weighted Std: 0.0761
+
+Iteration 76:
+Params: {'clf__iterations': 182, 'clf__depth': 1, 'clf__learning_rate': 0.0046847942740217505, 'clf__l2_leaf_reg': 0.01233916980536649, 'clf__bagging_temperature': 1.620321027358485, 'clf__rsm': 0.28103381598002974, 'clf__border_count': 28, 'clf__random_strength': 0.7031598255795807, 'clf__scale_pos_weight': 19.35620555028592}
+Scores: (0.05885096441231947, 0.10515049215734712, 0.1141001889916092, 0.1202000282931735, 0.15103640045677214, 0.21791505909450684, 0.3808375693807923)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2079
+Weighted Std: 0.1080
+
+Iteration 77:
+Params: {'clf__iterations': 33, 'clf__depth': 9, 'clf__learning_rate': 0.49973191940491285, 'clf__l2_leaf_reg': 0.0001866577965157262, 'clf__bagging_temperature': 1.8178852445131266, 'clf__rsm': 0.23985162596851198, 'clf__border_count': 8, 'clf__random_strength': 0.6680030028556933, 'clf__scale_pos_weight': 39.285401164867764}
+Scores: (0.05611566780349822, 0.09667297335546396, 0.10624090178086923, 0.07440960511909847, 0.11717833785994539, 0.1416896745464818, 0.22354745268169335)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1381
+Weighted Std: 0.0544
+
+Iteration 78:
+Params: {'clf__iterations': 58, 'clf__depth': 12, 'clf__learning_rate': 0.7426630952515467, 'clf__l2_leaf_reg': 0.0005959172934814843, 'clf__bagging_temperature': 0.8051269961072538, 'clf__rsm': 0.5687916291194389, 'clf__border_count': 23, 'clf__random_strength': 0.277664749187667, 'clf__scale_pos_weight': 36.60213677581781}
+Scores: (0.060167591504153, 0.09493683424869799, 0.10070298677634798, 0.08842083024127212, 0.11352045045948687, 0.1506607390457872, 0.18245574295203532)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1305
+Weighted Std: 0.0378
+
+Iteration 79:
+Params: {'clf__iterations': 166, 'clf__depth': 5, 'clf__learning_rate': 0.004006610579253072, 'clf__l2_leaf_reg': 0.00021251238093943585, 'clf__bagging_temperature': 1.7028751082417035, 'clf__rsm': 0.9277972199636217, 'clf__border_count': 40, 'clf__random_strength': 0.2001240407264025, 'clf__scale_pos_weight': 13.385148065949517}
+Scores: (0.08546575986223792, 0.13052145292876174, 0.16227701667586497, 0.19654473988212479, 0.21744451466614467, 0.3046520319662646, 0.4850222805317265)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2832
+Weighted Std: 0.1294
+
+Iteration 80:
+Params: {'clf__iterations': 49, 'clf__depth': 4, 'clf__learning_rate': 0.0002785644584833434, 'clf__l2_leaf_reg': 4.180478850241437e-05, 'clf__bagging_temperature': 1.0333469630319343, 'clf__rsm': 0.3800793260051136, 'clf__border_count': 8, 'clf__random_strength': 0.4309418743014365, 'clf__scale_pos_weight': 47.80177786463763}
+Scores: (0.06641448265431849, 0.09179414170562253, 0.11980719066988568, 0.11163077404451023, 0.1287096240314543, 0.22607913899523255, 0.2737807954138173)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1776
+Weighted Std: 0.0720
+
+Iteration 81:
+Params: {'clf__iterations': 284, 'clf__depth': 8, 'clf__learning_rate': 6.359416777990754e-05, 'clf__l2_leaf_reg': 0.02859658963142947, 'clf__bagging_temperature': 0.9386682163000657, 'clf__rsm': 0.5418523234828799, 'clf__border_count': 50, 'clf__random_strength': 0.3150247667431287, 'clf__scale_pos_weight': 18.040922354505774}
+Scores: (0.07222253956992478, 0.1379520303657851, 0.1557415233196009, 0.24981732132909856, 0.20653167460320926, 0.29517403757295213, 0.4377685889011588)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2744
+Weighted Std: 0.1094
+
+Iteration 82:
+Params: {'clf__iterations': 222, 'clf__depth': 11, 'clf__learning_rate': 4.463893953343033e-05, 'clf__l2_leaf_reg': 1.911287943722097, 'clf__bagging_temperature': 0.10810058562533834, 'clf__rsm': 0.7456589578061089, 'clf__border_count': 9, 'clf__random_strength': 0.22317105985448632, 'clf__scale_pos_weight': 20.946568018331376}
+Scores: (0.09053216435238202, 0.15321834999938572, 0.15837619199077513, 0.23449287220509765, 0.21799564327308774, 0.30004251317910396, 0.44645875735369656)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2795
+Weighted Std: 0.1096
+
+Iteration 83:
+Params: {'clf__iterations': 93, 'clf__depth': 11, 'clf__learning_rate': 0.0576666723140053, 'clf__l2_leaf_reg': 4.3051008178274855e-05, 'clf__bagging_temperature': 0.8728886818906909, 'clf__rsm': 0.46903871436793276, 'clf__border_count': 46, 'clf__random_strength': 0.2957688311273124, 'clf__scale_pos_weight': 35.754898737053544}
+Scores: (0.06053888463396047, 0.13177134071843893, 0.1129696353664694, 0.1358565062305694, 0.14752777162191488, 0.19970587812822757, 0.3407069132525965)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1974
+Weighted Std: 0.0887
+
+Iteration 84:
+Params: {'clf__iterations': 23, 'clf__depth': 12, 'clf__learning_rate': 0.10070347450591279, 'clf__l2_leaf_reg': 0.09358712893315511, 'clf__bagging_temperature': 0.8062196213642958, 'clf__rsm': 0.7248666902063344, 'clf__border_count': 14, 'clf__random_strength': 0.8297133794133597, 'clf__scale_pos_weight': 23.26444234074938}
+Scores: (0.07851793747063815, 0.08620960194516314, 0.11815587309567803, 0.08102694595165544, 0.16535699352497935, 0.23141496218852692, 0.2772120982543304)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1816
+Weighted Std: 0.0760
+
+Iteration 85:
+Params: {'clf__iterations': 132, 'clf__depth': 15, 'clf__learning_rate': 0.06631054504013924, 'clf__l2_leaf_reg': 6.338453591522629e-05, 'clf__bagging_temperature': 1.7201622428294527, 'clf__rsm': 0.9919157795526564, 'clf__border_count': 12, 'clf__random_strength': 0.9915846089806668, 'clf__scale_pos_weight': 49.06425944965934}
+Scores: (0.076496844597174, 0.12469026682646595, 0.10611321407507311, 0.16491485982081105, 0.16258964821913585, 0.1860115822854825, 0.30573741220381256)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1919
+Weighted Std: 0.0714
+
+Iteration 86:
+Params: {'clf__iterations': 161, 'clf__depth': 10, 'clf__learning_rate': 0.0010567131665636825, 'clf__l2_leaf_reg': 0.00450985995921583, 'clf__bagging_temperature': 1.2129309718986718, 'clf__rsm': 0.8853957375976287, 'clf__border_count': 45, 'clf__random_strength': 0.011642429489331809, 'clf__scale_pos_weight': 5.15280298004504}
+Scores: (0.08005659350803541, 0.1387873473393456, 0.17464194099404418, 0.1280582858384861, 0.17736312712100755, 0.27073163955258417, 0.4932282739557632)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2628
+Weighted Std: 0.1425
+
+Iteration 87:
+Params: {'clf__iterations': 154, 'clf__depth': 3, 'clf__learning_rate': 0.02484545062096004, 'clf__l2_leaf_reg': 0.0015698557668227555, 'clf__bagging_temperature': 1.1778649662467584, 'clf__rsm': 0.8806899449009132, 'clf__border_count': 35, 'clf__random_strength': 0.9924712929461337, 'clf__scale_pos_weight': 37.16406101262894}
+Scores: (0.05984487890718964, 0.11707329397791916, 0.11465347406345469, 0.17965362917347383, 0.20157889297147832, 0.2794555050891325, 0.4291356625959718)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2516
+Weighted Std: 0.1177
+
+Iteration 88:
+Params: {'clf__iterations': 15, 'clf__depth': 1, 'clf__learning_rate': 0.11549568408023303, 'clf__l2_leaf_reg': 9.475552801238595e-05, 'clf__bagging_temperature': 1.9239706079688628, 'clf__rsm': 0.487025886729861, 'clf__border_count': 43, 'clf__random_strength': 0.6648497610326669, 'clf__scale_pos_weight': 17.0394574981678}
+Scores: (0.06674304659429733, 0.10491778297611569, 0.12137151143307452, 0.09954145696480943, 0.15870821566962237, 0.2553857789998442, 0.2700782331591285)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1877
+Weighted Std: 0.0736
+
+Iteration 89:
+Params: {'clf__iterations': 220, 'clf__depth': 8, 'clf__learning_rate': 2.8307162815202284e-05, 'clf__l2_leaf_reg': 0.02802611713192649, 'clf__bagging_temperature': 0.5190856224900232, 'clf__rsm': 0.17697673306280176, 'clf__border_count': 36, 'clf__random_strength': 0.10164008667545413, 'clf__scale_pos_weight': 19.882268494472815}
+Scores: (0.07963479127257274, 0.12214957194045067, 0.13866513479200232, 0.21435160097354816, 0.20321999458200307, 0.31201344259517816, 0.4508700910898937)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2729
+Weighted Std: 0.1204
+
+Iteration 90:
+Params: {'clf__iterations': 36, 'clf__depth': 2, 'clf__learning_rate': 0.0004096695605225255, 'clf__l2_leaf_reg': 0.3279259661711797, 'clf__bagging_temperature': 0.27168937173302804, 'clf__rsm': 0.9957803755103926, 'clf__border_count': 22, 'clf__random_strength': 0.10264760224843453, 'clf__scale_pos_weight': 46.958633510917686}
+Scores: (0.07625785399503539, 0.11154810206799431, 0.12486117716957815, 0.11190679250814466, 0.17404046261153083, 0.229930181951462, 0.32686839941593354)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2021
+Weighted Std: 0.0846
+
+Iteration 91:
+Params: {'clf__iterations': 225, 'clf__depth': 12, 'clf__learning_rate': 0.03449989843467456, 'clf__l2_leaf_reg': 0.020318335213901376, 'clf__bagging_temperature': 1.5127226828760802, 'clf__rsm': 0.7607600555375219, 'clf__border_count': 44, 'clf__random_strength': 0.037064454269861054, 'clf__scale_pos_weight': 19.354400890698678}
+Scores: (0.10209631898470109, 0.16352017823730225, 0.13279829807403376, 0.21366945755268407, 0.20467712586483663, 0.3389523752721885, 0.46873615881421776)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2864
+Weighted Std: 0.1252
+
+Iteration 92:
+Params: {'clf__iterations': 283, 'clf__depth': 3, 'clf__learning_rate': 0.04248404800790129, 'clf__l2_leaf_reg': 0.5599510339322361, 'clf__bagging_temperature': 0.9305564799708466, 'clf__rsm': 0.5490274471387837, 'clf__border_count': 10, 'clf__random_strength': 0.21043406069787146, 'clf__scale_pos_weight': 27.349924660155114}
+Scores: (0.07390468575499132, 0.13120713856827138, 0.11913956784150014, 0.2522986745497481, 0.23106393867263114, 0.2917579572590977, 0.4119180086536555)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2676
+Weighted Std: 0.1031
+
+Iteration 93:
+Params: {'clf__iterations': 29, 'clf__depth': 12, 'clf__learning_rate': 1.2977117800831242e-05, 'clf__l2_leaf_reg': 0.26319852999853455, 'clf__bagging_temperature': 0.6072033657646864, 'clf__rsm': 0.8368410077526597, 'clf__border_count': 16, 'clf__random_strength': 0.5661200789135246, 'clf__scale_pos_weight': 8.348844202803473}
+Scores: (0.10515375531714638, 0.13681661908936693, 0.1548499448775728, 0.18031636941992413, 0.18472882450215647, 0.27209303304357424, 0.3860866590020338)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2437
+Weighted Std: 0.0937
+
+Iteration 94:
+Params: {'clf__iterations': 206, 'clf__depth': 7, 'clf__learning_rate': 0.010218673689258733, 'clf__l2_leaf_reg': 0.0003653260677249396, 'clf__bagging_temperature': 0.8483775486946841, 'clf__rsm': 0.5189090348737144, 'clf__border_count': 49, 'clf__random_strength': 0.35724763948342114, 'clf__scale_pos_weight': 27.444571041282032}
+Scores: (0.06424502930364695, 0.12072944212264426, 0.11750098042757245, 0.19983542284977762, 0.20599138995230198, 0.30872577285465513, 0.4047992283172675)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2562
+Weighted Std: 0.1082
+
+Iteration 95:
+Params: {'clf__iterations': 249, 'clf__depth': 13, 'clf__learning_rate': 0.4132479395590365, 'clf__l2_leaf_reg': 5.6941055807588784e-05, 'clf__bagging_temperature': 1.37948175861358, 'clf__rsm': 0.8017870281321994, 'clf__border_count': 63, 'clf__random_strength': 0.9703246065884609, 'clf__scale_pos_weight': 2.329346841158526}
+Scores: (0.07260044392387602, 0.08017458450067588, 0.09669783421287013, 0.08907561199498751, 0.106740680823954, 0.16475247283069555, 0.2666765651942797)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1524
+Weighted Std: 0.0719
+
+Iteration 96:
+Params: {'clf__iterations': 35, 'clf__depth': 15, 'clf__learning_rate': 0.000557215289510236, 'clf__l2_leaf_reg': 9.358019453927988e-05, 'clf__bagging_temperature': 0.9470416235613286, 'clf__rsm': 0.6089797787356528, 'clf__border_count': 57, 'clf__random_strength': 0.21374974023446008, 'clf__scale_pos_weight': 19.731252479423787}
+Scores: (0.08261597996104982, 0.1096288677049797, 0.12814137779261994, 0.09984653899405341, 0.12629538421623085, 0.25296649029495427, 0.3318691751022985)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1985
+Weighted Std: 0.0948
+
+Iteration 97:
+Params: {'clf__iterations': 290, 'clf__depth': 8, 'clf__learning_rate': 3.067728312263544e-05, 'clf__l2_leaf_reg': 0.00020047922602829974, 'clf__bagging_temperature': 0.1317045860360693, 'clf__rsm': 0.6116728343995652, 'clf__border_count': 62, 'clf__random_strength': 0.21013199878144379, 'clf__scale_pos_weight': 44.072743506941414}
+Scores: (0.06279498950461815, 0.11481129899065048, 0.10199799228423972, 0.14968735334613537, 0.1700323656621906, 0.2575256036963931, 0.35976346325106684)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2182
+Weighted Std: 0.0975
+
+Iteration 98:
+Params: {'clf__iterations': 178, 'clf__depth': 14, 'clf__learning_rate': 0.007433372955907333, 'clf__l2_leaf_reg': 0.01881489243849763, 'clf__bagging_temperature': 1.733761443158109, 'clf__rsm': 0.1570422376317614, 'clf__border_count': 28, 'clf__random_strength': 0.5350422436394796, 'clf__scale_pos_weight': 7.293547292228374}
+Scores: (0.0910973693330977, 0.1397121704095255, 0.13358256154528486, 0.22023995272409774, 0.21306738495102961, 0.32447961792443114, 0.4363181539118918)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2757
+Weighted Std: 0.1131
+
+Iteration 99:
+Params: {'clf__iterations': 119, 'clf__depth': 16, 'clf__learning_rate': 3.546221779514187e-05, 'clf__l2_leaf_reg': 0.08761776645473675, 'clf__bagging_temperature': 1.2316522906766938, 'clf__rsm': 0.6686363740410203, 'clf__border_count': 9, 'clf__random_strength': 0.9039723913078244, 'clf__scale_pos_weight': 42.05918447285978}
+Scores: (0.058855287915945784, 0.10598452249088317, 0.10483671902604427, 0.11537972695659629, 0.1456247401792657, 0.22329902137016452, 0.2987752673726228)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1859
+Weighted Std: 0.0789
+
+Iteration 100:
+Params: {'clf__iterations': 271, 'clf__depth': 11, 'clf__learning_rate': 0.0050296679860197015, 'clf__l2_leaf_reg': 0.010055693308354983, 'clf__bagging_temperature': 0.7568315442118243, 'clf__rsm': 0.12624369758432347, 'clf__border_count': 47, 'clf__random_strength': 0.23094112370407843, 'clf__scale_pos_weight': 9.469358328897972}
+Scores: (0.09003562094588394, 0.17486014988382423, 0.15583883821417968, 0.2403027079429904, 0.1981949199649339, 0.328333441237035, 0.43607256372048336)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2815
+Weighted Std: 0.1083
+
+Iteration 101:
+Params: {'clf__iterations': 257, 'clf__depth': 10, 'clf__learning_rate': 0.017296184213291613, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.7720974692341456, 'clf__rsm': 1.0, 'clf__border_count': 25, 'clf__random_strength': 0.002357307280299272, 'clf__scale_pos_weight': 18.17551333781835}
+Scores: (0.09719444674124611, 0.13164620804778113, 0.14432387324959894, 0.24074844456179795, 0.21851682306018075, 0.3401241206071387, 0.4703244528084028)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2922
+Weighted Std: 0.1238
+
+Iteration 102:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 0.15062746769894317, 'clf__bagging_temperature': 0.36030349295388003, 'clf__rsm': 0.862924226602269, 'clf__border_count': 6, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09363780715845263, 0.15965841940696246, 0.12653728482232046, 0.16999362889228714, 0.1565414840935506, 0.16076219510871628, 0.39904047156567285)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2148
+Weighted Std: 0.1076
+
+Iteration 103:
+Params: {'clf__iterations': 300, 'clf__depth': 13, 'clf__learning_rate': 0.0007803197421912658, 'clf__l2_leaf_reg': 0.020172001731471947, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.13509204484451462, 'clf__border_count': 13, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 8.637426899999344}
+Scores: (0.08022894060619518, 0.13416852195855322, 0.12555595320369234, 0.2683386749640439, 0.22039112122041987, 0.31377887533091137, 0.4367264902005635)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2800
+Weighted Std: 0.1120
+
+Iteration 104:
+Params: {'clf__iterations': 176, 'clf__depth': 4, 'clf__learning_rate': 0.041166357747989525, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.12006611410434731, 'clf__rsm': 1.0, 'clf__border_count': 51, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 27.88741941707825}
+Scores: (0.07355117249918469, 0.11694458874580187, 0.12377163268425256, 0.20516251526732104, 0.20216988726767018, 0.33824368412367717, 0.46722944251748355)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2789
+Weighted Std: 0.1319
+
+Iteration 105:
+Params: {'clf__iterations': 246, 'clf__depth': 6, 'clf__learning_rate': 0.016755866843599938, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 53, 'clf__random_strength': 0.5312680247450244, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08192882763188697, 0.13597898616410417, 0.13585196349718445, 0.26921690341371024, 0.22965322829978618, 0.4428841868543845, 0.5065182597556316)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3282
+Weighted Std: 0.1475
+
+Iteration 106:
+Params: {'clf__iterations': 290, 'clf__depth': 5, 'clf__learning_rate': 0.01247603723559772, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 47, 'clf__random_strength': 0.7928880584149487, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07792257435806693, 0.1348004043067917, 0.1263319251945778, 0.2635554922860959, 0.22289956549846204, 0.3869598042768033, 0.5092754510246565)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3136
+Weighted Std: 0.1434
+
+Iteration 107:
+Params: {'clf__iterations': 219, 'clf__depth': 7, 'clf__learning_rate': 0.01223934141191278, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.7306793953752121, 'clf__border_count': 61, 'clf__random_strength': 0.4200330374744597, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08200897607785794, 0.1373069138212207, 0.13460745214035766, 0.2430788489827843, 0.22471319261993258, 0.44127729913629854, 0.5071127549439532)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3233
+Weighted Std: 0.1498
+
+Iteration 108:
+Params: {'clf__iterations': 182, 'clf__depth': 7, 'clf__learning_rate': 0.010204559409627553, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 44, 'clf__random_strength': 0.7147048688499046, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08696051390653359, 0.13066109686983954, 0.12083720985591292, 0.16617896830908999, 0.2036673802109628, 0.3531614378776583, 0.5122563078048346)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2892
+Weighted Std: 0.1519
+
+Iteration 109:
+Params: {'clf__iterations': 300, 'clf__depth': 5, 'clf__learning_rate': 0.028543049637554902, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 56, 'clf__random_strength': 0.3121658087989279, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07673888920447001, 0.14519672533437358, 0.13067575232860876, 0.2592800834423193, 0.2206666736589745, 0.44778288394297494, 0.5121905396752681)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3276
+Weighted Std: 0.1520
+
+Iteration 110:
+Params: {'clf__iterations': 284, 'clf__depth': 6, 'clf__learning_rate': 0.023145006270603435, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.872299147542674, 'clf__border_count': 62, 'clf__random_strength': 0.45032117633014673, 'clf__scale_pos_weight': 5.8672247498070185}
+Scores: (0.08066662040826525, 0.1380468191544611, 0.12816623617807393, 0.2606989569354704, 0.22044254945998185, 0.40703394303563517, 0.499823828109858)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3153
+Weighted Std: 0.1425
+
+Iteration 111:
+Params: {'clf__iterations': 284, 'clf__depth': 4, 'clf__learning_rate': 0.018860504651938344, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 1.0, 'clf__border_count': 62, 'clf__random_strength': 0.28920884168739003, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07909855555083269, 0.14509118911167007, 0.13393839023359327, 0.2521271915889004, 0.22457538895552542, 0.4338066231300714, 0.5106071727330166)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3243
+Weighted Std: 0.1486
+
+Iteration 112:
+Params: {'clf__iterations': 300, 'clf__depth': 6, 'clf__learning_rate': 0.013805532838326426, 'clf__l2_leaf_reg': 0.026818204909212186, 'clf__bagging_temperature': 0.8523678502708731, 'clf__rsm': 1.0, 'clf__border_count': 17, 'clf__random_strength': 0.27443992438504144, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08294254337735753, 0.14678843389340335, 0.14818574916245342, 0.23671920554691245, 0.22153273026797138, 0.3405595002872024, 0.4962270417391897)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2997
+Weighted Std: 0.1322
+
+Iteration 113:
+Params: {'clf__iterations': 300, 'clf__depth': 1, 'clf__learning_rate': 0.06673621182249788, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6978002371818496, 'clf__rsm': 1.0, 'clf__border_count': 59, 'clf__random_strength': 0.65237102083844, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0847293975464826, 0.13558287700249522, 0.11203791018214275, 0.2245473479734227, 0.21012005324413618, 0.29674621824601854, 0.4692292251217516)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2752
+Weighted Std: 0.1272
+
+Iteration 114:
+Params: {'clf__iterations': 251, 'clf__depth': 7, 'clf__learning_rate': 0.021304567447497855, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.6666507446366505, 'clf__border_count': 52, 'clf__random_strength': 0.02804889683852874, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08820460283481332, 0.14106904939119697, 0.13642129349234655, 0.25135110252867426, 0.2392573622131437, 0.4428887307660262, 0.5115375025885873)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3293
+Weighted Std: 0.1482
+
+Iteration 115:
+Params: {'clf__iterations': 231, 'clf__depth': 5, 'clf__learning_rate': 0.02225242730460313, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.8344744005773378, 'clf__border_count': 49, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07966094172051101, 0.1384909455460254, 0.1432749104271865, 0.24513610923555268, 0.22453008358051987, 0.41646436839062656, 0.5097752150274649)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3199
+Weighted Std: 0.1456
+
+Iteration 116:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.016679255652176216, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.4468797172199741, 'clf__border_count': 40, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08883499126571236, 0.14499037492295042, 0.1314009601401498, 0.2381635928448964, 0.23054112819470585, 0.44275710559061104, 0.5136635112253276)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3261
+Weighted Std: 0.1512
+
+Iteration 117:
+Params: {'clf__iterations': 278, 'clf__depth': 7, 'clf__learning_rate': 0.022732048552828756, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 0.6208053915355195, 'clf__border_count': 18, 'clf__random_strength': 0.28954382593028355, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08908775704333699, 0.15393983918723533, 0.1369213357094944, 0.2611380074317179, 0.23136211018611066, 0.36922834314512004, 0.5051606163068216)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3129
+Weighted Std: 0.1357
+
+Iteration 118:
+Params: {'clf__iterations': 300, 'clf__depth': 6, 'clf__learning_rate': 0.010950317566441364, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.7379342018355052, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08584951805678158, 0.1459131745441195, 0.1403181677768387, 0.23000241616460604, 0.23420144581691132, 0.44513484282094434, 0.5107131459455575)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3263
+Weighted Std: 0.1499
+
+Iteration 119:
+Params: {'clf__iterations': 220, 'clf__depth': 9, 'clf__learning_rate': 0.011627983352807488, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.3929726923085314, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08396042655808801, 0.1331336484074993, 0.12977472055796607, 0.23591712671323778, 0.2398994777154072, 0.4424266956231287, 0.5121046756870463)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3258
+Weighted Std: 0.1514
+
+Iteration 120:
+Params: {'clf__iterations': 242, 'clf__depth': 7, 'clf__learning_rate': 0.01880834298121175, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07751960132244917, 0.12874996022088225, 0.11795779259678772, 0.2329565751360912, 0.22720514837381506, 0.4057182326023884, 0.5009799434026171)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3106
+Weighted Std: 0.1462
+
+Iteration 121:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.03611059408523306, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.99788600102603, 'clf__rsm': 0.6730614882329056, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.1058353773272186, 0.14002577527565355, 0.14028545673035125, 0.24104593252682824, 0.23581530837468512, 0.44453807151388364, 0.5028370754665559)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3263
+Weighted Std: 0.1456
+
+Iteration 122:
+Params: {'clf__iterations': 298, 'clf__depth': 9, 'clf__learning_rate': 0.016476328557073174, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.8055699398729202, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08664304360722112, 0.14625570936107485, 0.1478255452100685, 0.2385017851813864, 0.23330414764405635, 0.44991840389633864, 0.5126646159786301)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3297
+Weighted Std: 0.1496
+
+Iteration 123:
+Params: {'clf__iterations': 279, 'clf__depth': 12, 'clf__learning_rate': 0.014586375316665389, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.3376868604439721, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08214378792263415, 0.12393037747178795, 0.11281143558142293, 0.21598131783648317, 0.21586453720602758, 0.42665925063295584, 0.5145758093564133)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3133
+Weighted Std: 0.1572
+
+Iteration 124:
+Params: {'clf__iterations': 290, 'clf__depth': 7, 'clf__learning_rate': 0.012915893390940103, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.3400281313670535, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08660837576146596, 0.14889232524851465, 0.1333482937744407, 0.273496707586225, 0.2359085751075033, 0.44507602922909895, 0.5125938433471227)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3327
+Weighted Std: 0.1477
+
+Iteration 125:
+Params: {'clf__iterations': 300, 'clf__depth': 16, 'clf__learning_rate': 0.0004766015787160306, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 29.09219327204968}
+Scores: (0.07986935335174039, 0.09681417540854931, 0.0868686635847451, 0.09588413012704311, 0.11610097126414655, 0.17906869515928003, 0.2731297860936017)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1602
+Weighted Std: 0.0728
+
+Iteration 126:
+Params: {'clf__iterations': 256, 'clf__depth': 7, 'clf__learning_rate': 0.024379676427280225, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.2205715216520837, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09583011183646808, 0.13620647145297873, 0.14207078648456462, 0.2635605684430069, 0.23719781528510755, 0.4454000237810608, 0.5163686482532811)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3329
+Weighted Std: 0.1487
+
+Iteration 127:
+Params: {'clf__iterations': 287, 'clf__depth': 8, 'clf__learning_rate': 0.014797191559693024, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.633065971979677, 'clf__border_count': 64, 'clf__random_strength': 0.2421495886278912, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09396642865742708, 0.14955276155248845, 0.1324698294179631, 0.24520433765183636, 0.22474828474484526, 0.4485358825350356, 0.512228848097472)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3276
+Weighted Std: 0.1510
+
+Iteration 128:
+Params: {'clf__iterations': 261, 'clf__depth': 5, 'clf__learning_rate': 0.013672058089900133, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.30568973314678693, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08039116289523335, 0.14396534908494424, 0.13706600543321987, 0.25337820269390265, 0.23013805164850218, 0.4208796738658086, 0.506558152350412)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3220
+Weighted Std: 0.1442
+
+Iteration 129:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.02892644853614588, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.4303335014525402, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08367710323401649, 0.13283414225917387, 0.1285306988050257, 0.24957938362697138, 0.2342699628035335, 0.45409792721994785, 0.5093326336746877)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3284
+Weighted Std: 0.1523
+
+Iteration 130:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.025344615184765957, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6744316249178918, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.08232922344537341, 0.13239177725091503, 0.12084896270720202, 0.22458144353290424, 0.20719034867527367, 0.3553915739988734, 0.4492408272581096)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2829
+Weighted Std: 0.1242
+
+Iteration 131:
+Params: {'clf__iterations': 10, 'clf__depth': 1, 'clf__learning_rate': 0.023645160304352698, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 1.3429870070647056, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.05448303083233344, 0.08710301560506681, 0.10628125811237162, 0.10438676486246604, 0.14493239426744683, 0.12440194507504615, 0.2234453260744628)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1429
+Weighted Std: 0.0505
+
+Iteration 132:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 0.0005625132542462326, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.4323005031043781, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07520232788248556, 0.11455469210500242, 0.10898327235818484, 0.10859815650455663, 0.12969941936961316, 0.24176177112604602, 0.2502619688794951)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1756
+Weighted Std: 0.0667
+
+Iteration 133:
+Params: {'clf__iterations': 244, 'clf__depth': 8, 'clf__learning_rate': 0.01664879674086603, 'clf__l2_leaf_reg': 0.26462506997334406, 'clf__bagging_temperature': 0.5248811692728332, 'clf__rsm': 0.5634299966019285, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0888259531663047, 0.13074650066482563, 0.15086161120590735, 0.2244422615585146, 0.23318663284839417, 0.43352231238728767, 0.5087508039246933)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3225
+Weighted Std: 0.1478
+
+Iteration 134:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.00023469922279856418, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 0.6231427543177513, 'clf__rsm': 0.1, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 12.04485329950809}
+Scores: (0.09477071232041069, 0.09457627670393592, 0.11138027946713494, 0.18335893287924446, 0.18287825282645565, 0.2401398916152876, 0.3332386158624696)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2157
+Weighted Std: 0.0816
+
+Iteration 135:
+Params: {'clf__iterations': 291, 'clf__depth': 7, 'clf__learning_rate': 0.019476314437066888, 'clf__l2_leaf_reg': 0.09335613323502938, 'clf__bagging_temperature': 1.1631475191231788, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.5475662878428473, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09174575422785305, 0.13084793374544487, 0.1372679838476734, 0.25564597361165603, 0.22587734303273838, 0.439733079509987, 0.5021390971242463)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3239
+Weighted Std: 0.1467
+
+Iteration 136:
+Params: {'clf__iterations': 228, 'clf__depth': 1, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8517986485939202, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 14.930822882903014}
+Scores: (0.05448303083233344, 0.087134214271074, 0.10628125811237162, 0.0723616444697961, 0.092748578416576, 0.10535707766236772, 0.1267540974207755)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1007
+Weighted Std: 0.0198
+
+Iteration 137:
+Params: {'clf__iterations': 161, 'clf__depth': 10, 'clf__learning_rate': 0.012385379566583449, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0608425882194461, 'clf__rsm': 0.11752484874728492, 'clf__border_count': 30, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07999411487711777, 0.11644550574360979, 0.12051050774207155, 0.2089565719854234, 0.2159601944744931, 0.4291582796858525, 0.503262984076286)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3103
+Weighted Std: 0.1544
+
+Iteration 138:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.013890618847719213, 'clf__l2_leaf_reg': 0.313994371809059, 'clf__bagging_temperature': 1.122183027290844, 'clf__rsm': 1.0, 'clf__border_count': 52, 'clf__random_strength': 0.3229188758045365, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0843310666561852, 0.14305899243343342, 0.13678588476005396, 0.2600010949912592, 0.23816216782885172, 0.4412022454220066, 0.5076824650961241)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3290
+Weighted Std: 0.1463
+
+Iteration 139:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 0.009242418595992095, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.41364219279683045, 'clf__rsm': 0.3488016292337544, 'clf__border_count': 30, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 12.260536204638106}
+Scores: (0.08888916650414899, 0.1533491150378384, 0.13958535162331928, 0.24407622164252973, 0.2200154045277254, 0.34625227236522055, 0.4890626362576368)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2997
+Weighted Std: 0.1299
+
+Iteration 140:
+Params: {'clf__iterations': 300, 'clf__depth': 5, 'clf__learning_rate': 0.003453556258100173, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 0.0, 'clf__rsm': 1.0, 'clf__border_count': 49, 'clf__random_strength': 0.9125765422163143, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07044597372602818, 0.09867329598804382, 0.11165315451913174, 0.11366001712909865, 0.1596319763163641, 0.20440823172405007, 0.3940671866356105)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2086
+Weighted Std: 0.1135
+
+Iteration 141:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.0264932591264284, 'clf__l2_leaf_reg': 4.464936739760907, 'clf__bagging_temperature': 0.0, 'clf__rsm': 1.0, 'clf__border_count': 51, 'clf__random_strength': 0.45840189296880723, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08596557206109481, 0.14801564084855282, 0.13539080160211558, 0.27571850107519796, 0.22135105917213657, 0.4420648766834804, 0.5059623745139263)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3283
+Weighted Std: 0.1467
+
+Iteration 142:
+Params: {'clf__iterations': 282, 'clf__depth': 12, 'clf__learning_rate': 4.315127509616197e-05, 'clf__l2_leaf_reg': 2.5000647402630157e-05, 'clf__bagging_temperature': 1.7995269644800327, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 8.84963473402768}
+Scores: (0.07682724893982669, 0.1389134063503517, 0.12531140095371765, 0.21686768693878183, 0.20268970251570528, 0.3014306462609657, 0.4515208677486024)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2707
+Weighted Std: 0.1203
+
+Iteration 143:
+Params: {'clf__iterations': 229, 'clf__depth': 7, 'clf__learning_rate': 0.023883480105151657, 'clf__l2_leaf_reg': 0.38353800675492034, 'clf__bagging_temperature': 0.04686515883092713, 'clf__rsm': 1.0, 'clf__border_count': 54, 'clf__random_strength': 0.3289191849351116, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0835574020578185, 0.12942143064045436, 0.13183107373963163, 0.25015493694143615, 0.2291413124602586, 0.4349520779203206, 0.5074638421544162)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3231
+Weighted Std: 0.1489
+
+Iteration 144:
+Params: {'clf__iterations': 140, 'clf__depth': 10, 'clf__learning_rate': 0.031141200215072943, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.0912844946964286, 'clf__rsm': 0.44522891635135575, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08136268637059545, 0.1355515755795808, 0.1343257873589772, 0.1785456528301511, 0.2340856156893997, 0.4348902705935186, 0.5005447167741275)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3126
+Weighted Std: 0.1525
+
+Iteration 145:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.015514677916374266, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.11142878139075331, 'clf__rsm': 1.0, 'clf__border_count': 45, 'clf__random_strength': 0.21603523662203467, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08611864238619371, 0.14964823803479754, 0.13386072897065937, 0.25253927086408823, 0.22940999556594366, 0.4477772067576623, 0.5182607776648092)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3307
+Weighted Std: 0.1519
+
+Iteration 146:
+Params: {'clf__iterations': 300, 'clf__depth': 16, 'clf__learning_rate': 0.014370542737332544, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9627947554255254, 'clf__rsm': 1.0, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.0966027331679859, 0.12698158068717424, 0.12397127061242799, 0.18773563614417432, 0.17777994255728163, 0.24488411660031834, 0.37262178391260165)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2300
+Weighted Std: 0.0920
+
+Iteration 147:
+Params: {'clf__iterations': 225, 'clf__depth': 9, 'clf__learning_rate': 0.010180193609139467, 'clf__l2_leaf_reg': 0.8920164810219564, 'clf__bagging_temperature': 1.4565744816912634, 'clf__rsm': 0.5288868956367008, 'clf__border_count': 34, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09225941358051246, 0.15099753808580244, 0.13021089449560308, 0.22072800643016716, 0.23172213460819152, 0.43373585373824974, 0.5069050065241502)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3206
+Weighted Std: 0.1485
+
+Iteration 148:
+Params: {'clf__iterations': 300, 'clf__depth': 16, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.3485480802013403, 'clf__rsm': 0.1, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.06774376983776005, 0.10986909624460667, 0.11398420176092548, 0.21114907007879805, 0.18182679345851607, 0.2523538446876011, 0.3138482089452348)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2177
+Weighted Std: 0.0748
+
+Iteration 149:
+Params: {'clf__iterations': 173, 'clf__depth': 10, 'clf__learning_rate': 0.01645233868807087, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.0670473509528142, 'clf__rsm': 0.4075498984834983, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 15.672309127764365}
+Scores: (0.07406056750159182, 0.14188378078221364, 0.1530002378317751, 0.22239994345439343, 0.2259001727114352, 0.36441824825169733, 0.4730107897818219)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2976
+Weighted Std: 0.1270
+
+Iteration 150:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.011046395569957485, 'clf__l2_leaf_reg': 0.03631298173949455, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 16.32956312698792}
+Scores: (0.07653150633950132, 0.14373553280379608, 0.13049177553958705, 0.21655615100985767, 0.19387405279573894, 0.3396173697092134, 0.4614444342141137)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2807
+Weighted Std: 0.1269
+
+Iteration 151:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.021346833624129587, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.1201569863948962, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.4719008509242592, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09546829233140533, 0.14628666166630788, 0.13570421207121372, 0.2670041778535506, 0.23162350176752636, 0.43921647649678963, 0.5103557010579144)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3296
+Weighted Std: 0.1463
+
+Iteration 152:
+Params: {'clf__iterations': 300, 'clf__depth': 16, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 1.819221552332621, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.06481850131987152, 0.11523970070731346, 0.09840191833547904, 0.14917943101926273, 0.13518563755314433, 0.17781961769884314, 0.2672668160835022)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1715
+Weighted Std: 0.0618
+
+Iteration 153:
+Params: {'clf__iterations': 224, 'clf__depth': 13, 'clf__learning_rate': 8.330340263871298e-05, 'clf__l2_leaf_reg': 0.003295569241727869, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.45589386183777225, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08653646131328366, 0.1460459442981736, 0.10725890787895509, 0.14138906494362724, 0.160654007987082, 0.19757255831456913, 0.34763215291860955)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2031
+Weighted Std: 0.0883
+
+Iteration 154:
+Params: {'clf__iterations': 169, 'clf__depth': 8, 'clf__learning_rate': 0.00018317745592057367, 'clf__l2_leaf_reg': 1.9072213033443902e-05, 'clf__bagging_temperature': 0.15381564699563968, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 15.1062880009965}
+Scores: (0.06095739220019765, 0.1039820634627889, 0.10586651164107999, 0.17185619820716586, 0.18610284372684224, 0.296740136842405, 0.4056829543720229)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2437
+Weighted Std: 0.1145
+
+Iteration 155:
+Params: {'clf__iterations': 300, 'clf__depth': 4, 'clf__learning_rate': 0.13132474099627506, 'clf__l2_leaf_reg': 0.8268439244765367, 'clf__bagging_temperature': 1.7346707020506795, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07017767465182587, 0.11646340754827603, 0.11995246223596003, 0.21907847171101286, 0.2066766999317029, 0.43063216308152247, 0.49165997297936276)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3071
+Weighted Std: 0.1518
+
+Iteration 156:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 0.07847838892746424, 'clf__bagging_temperature': 0.9374580780550424, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 20.842040654831045}
+Scores: (0.09493392336451217, 0.15088015338304736, 0.12512895753601036, 0.2110809490007264, 0.211485065352545, 0.30155001956923555, 0.4459093066870589)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2716
+Weighted Std: 0.1158
+
+Iteration 157:
+Params: {'clf__iterations': 300, 'clf__depth': 11, 'clf__learning_rate': 0.03547339844949784, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6759522962277724, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07829564606395456, 0.13466072942947313, 0.1142992259411682, 0.2482510640375478, 0.22812922458135004, 0.43019303966802874, 0.5088110722324954)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3203
+Weighted Std: 0.1511
+
+Iteration 158:
+Params: {'clf__iterations': 175, 'clf__depth': 4, 'clf__learning_rate': 0.044334837881929365, 'clf__l2_leaf_reg': 2.5105183707719774, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.594641794667369, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07327714206631641, 0.13702162672661594, 0.12083613037863877, 0.23917266679534616, 0.22482657742035542, 0.44098523461907463, 0.5093113866818517)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3215
+Weighted Std: 0.1532
+
+Iteration 159:
+Params: {'clf__iterations': 300, 'clf__depth': 11, 'clf__learning_rate': 0.048023897996825576, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.1, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08528560342809219, 0.12248521736476271, 0.13366568456310654, 0.2155928019337009, 0.1992458702919899, 0.25207804561171643, 0.3880908252116453)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2435
+Weighted Std: 0.0945
+
+Iteration 160:
+Params: {'clf__iterations': 244, 'clf__depth': 3, 'clf__learning_rate': 0.054052125836989866, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.2126392987201107, 'clf__rsm': 1.0, 'clf__border_count': 4, 'clf__random_strength': 0.7063928858472935, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07426159067379465, 0.12467699681819328, 0.11814710818309723, 0.2429633246724216, 0.22212304210624656, 0.2614379829786241, 0.3774072129946924)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2490
+Weighted Std: 0.0912
+
+Iteration 161:
+Params: {'clf__iterations': 300, 'clf__depth': 6, 'clf__learning_rate': 0.02562313748099965, 'clf__l2_leaf_reg': 0.4746573914260788, 'clf__bagging_temperature': 1.3849143313686738, 'clf__rsm': 0.7609801633820049, 'clf__border_count': 42, 'clf__random_strength': 0.4591891246937686, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07990589831206737, 0.13263188479803792, 0.1288342877114365, 0.2667547976405864, 0.2287471762505034, 0.4425245047695941, 0.503598683348926)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3258
+Weighted Std: 0.1483
+
+Iteration 162:
+Params: {'clf__iterations': 250, 'clf__depth': 7, 'clf__learning_rate': 0.05905605465742438, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.6481502383342261, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09368863818383506, 0.14677367893787285, 0.12073367787958256, 0.26972442165758537, 0.2337960548763948, 0.4356722284665069, 0.5091672907846948)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3277
+Weighted Std: 0.1472
+
+Iteration 163:
+Params: {'clf__iterations': 300, 'clf__depth': 6, 'clf__learning_rate': 0.006384133439727496, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9621803275784673, 'clf__rsm': 0.6297825926053485, 'clf__border_count': 30, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08547441359339418, 0.14359099797710057, 0.14259437909594003, 0.22604202506604332, 0.23200097573947753, 0.4295488256286387, 0.5102571562852563)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3219
+Weighted Std: 0.1477
+
+Iteration 164:
+Params: {'clf__iterations': 10, 'clf__depth': 1, 'clf__learning_rate': 0.2974917955031196, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.337972051089756, 'clf__rsm': 1.0, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.0667231741686926, 0.08990362305756333, 0.1129798950991863, 0.10456317339520489, 0.17232473881641586, 0.22092915873542257, 0.262003070776861)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1795
+Weighted Std: 0.0662
+
+Iteration 165:
+Params: {'clf__iterations': 10, 'clf__depth': 6, 'clf__learning_rate': 0.017471294386877008, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.2743634263565846, 'clf__rsm': 0.1383217084920766, 'clf__border_count': 51, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0665013080266382, 0.10064406524972816, 0.1086311968127166, 0.1318101284510639, 0.1849730533959412, 0.20362203848042595, 0.5052563652695523)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2430
+Weighted Std: 0.1562
+
+Iteration 166:
+Params: {'clf__iterations': 226, 'clf__depth': 9, 'clf__learning_rate': 0.0005037580027527051, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6943398748426304, 'clf__rsm': 1.0, 'clf__border_count': 34, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 15.212704209669234}
+Scores: (0.07126456007250091, 0.1124609079801308, 0.15965277142260437, 0.15939858722156283, 0.21272471744432986, 0.31837860930330547, 0.42489520696631)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2629
+Weighted Std: 0.1152
+
+Iteration 167:
+Params: {'clf__iterations': 237, 'clf__depth': 9, 'clf__learning_rate': 0.02698243250448753, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.9095918605827111, 'clf__rsm': 0.46195761210103126, 'clf__border_count': 53, 'clf__random_strength': 0.3837000511791702, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08910560987614874, 0.1410007274852834, 0.13855714830612395, 0.26935939443727586, 0.21699448224257192, 0.44284051229710164, 0.5123808591264899)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3283
+Weighted Std: 0.1497
+
+Iteration 168:
+Params: {'clf__iterations': 213, 'clf__depth': 7, 'clf__learning_rate': 0.07036006575047922, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.818421304190246, 'clf__rsm': 0.7787332422204709, 'clf__border_count': 64, 'clf__random_strength': 0.5913161698790309, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08093541116930955, 0.13242028555181473, 0.13032950704848265, 0.25312762309611836, 0.2305565873449265, 0.4360484038259979, 0.49912127190841427)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3219
+Weighted Std: 0.1462
+
+Iteration 169:
+Params: {'clf__iterations': 37, 'clf__depth': 1, 'clf__learning_rate': 1.0, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9411313114975133, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07415820518043414, 0.10869346179849415, 0.10542341639757578, 0.2230797040635966, 0.18545827308103427, 0.3334332703239519, 0.4582596624661099)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2727
+Weighted Std: 0.1320
+
+Iteration 170:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.015052616145233642, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.935124990624517, 'clf__rsm': 0.7716103717963969, 'clf__border_count': 48, 'clf__random_strength': 0.21931588349502315, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08309020936179679, 0.15106576222454446, 0.14030397737895955, 0.26448501035438327, 0.23094217663966854, 0.44333247409075843, 0.5155303059400803)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3317
+Weighted Std: 0.1485
+
+Iteration 171:
+Params: {'clf__iterations': 218, 'clf__depth': 8, 'clf__learning_rate': 0.004924342408737206, 'clf__l2_leaf_reg': 0.11025750185110919, 'clf__bagging_temperature': 1.405037455585986, 'clf__rsm': 0.5334773327888882, 'clf__border_count': 18, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 12.201781579605735}
+Scores: (0.0891875788031546, 0.1513227806066964, 0.16047182989727746, 0.22381011485045005, 0.21870502704265943, 0.30834038545717385, 0.43139069137168123)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2761
+Weighted Std: 0.1050
+
+Iteration 172:
+Params: {'clf__iterations': 208, 'clf__depth': 11, 'clf__learning_rate': 0.014100470132419836, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 52, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 6.461094273031644}
+Scores: (0.09421821933692587, 0.1355591111108686, 0.13849616277202642, 0.23745458760964908, 0.2104070692692857, 0.3644908962897629, 0.4877142254931559)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2994
+Weighted Std: 0.1339
+
+Iteration 173:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 0.027098688856006574, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.7765841364406036, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 30.479339117713717}
+Scores: (0.08262247402579, 0.14848058932934904, 0.1443813030312372, 0.19224195621775741, 0.1990111471839599, 0.3137078508198206, 0.4589318240737418)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2740
+Weighted Std: 0.1228
+
+Iteration 174:
+Params: {'clf__iterations': 265, 'clf__depth': 4, 'clf__learning_rate': 0.03079089995660917, 'clf__l2_leaf_reg': 0.0825412464338053, 'clf__bagging_temperature': 0.7093420987106469, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.25174561664793604, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07057446908525583, 0.13274909882507752, 0.12775774732196316, 0.24843879208224073, 0.22033296106622585, 0.4391609187951005, 0.5093694371450042)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3220
+Weighted Std: 0.1523
+
+Iteration 175:
+Params: {'clf__iterations': 300, 'clf__depth': 14, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.4732090346457702, 'clf__rsm': 0.1, 'clf__border_count': 5, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 14.456616793041652}
+Scores: (0.07545224682902568, 0.1092043339387472, 0.11897640533776943, 0.2565121525008145, 0.199011937133893, 0.27175727994747906, 0.38951786974040786)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2510
+Weighted Std: 0.0989
+
+Iteration 176:
+Params: {'clf__iterations': 242, 'clf__depth': 5, 'clf__learning_rate': 0.04011184685805307, 'clf__l2_leaf_reg': 2.8991195126022813, 'clf__bagging_temperature': 1.5885903333442037, 'clf__rsm': 0.6746223833005072, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07887390681452361, 0.1276685266511833, 0.1250133286436313, 0.25467736269250335, 0.23241273476741245, 0.41073172872796315, 0.5091903561249589)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3185
+Weighted Std: 0.1466
+
+Iteration 177:
+Params: {'clf__iterations': 257, 'clf__depth': 8, 'clf__learning_rate': 0.028307220039701327, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5842865103457533, 'clf__rsm': 0.8581252766521854, 'clf__border_count': 64, 'clf__random_strength': 0.5300585435522197, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08399599353287142, 0.1619655683091738, 0.13013841126233044, 0.26860659554623834, 0.22766329357242432, 0.44242955301247644, 0.5089037542073866)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3296
+Weighted Std: 0.1469
+
+Iteration 178:
+Params: {'clf__iterations': 286, 'clf__depth': 7, 'clf__learning_rate': 0.018036670858247505, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.040253458797921846, 'clf__rsm': 0.8303504586816838, 'clf__border_count': 54, 'clf__random_strength': 0.2716828962446319, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08772640637174142, 0.15221628487940125, 0.14511617094846715, 0.2568307568002985, 0.2300014622286367, 0.4477085953200097, 0.5150996877960907)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3320
+Weighted Std: 0.1487
+
+Iteration 179:
+Params: {'clf__iterations': 300, 'clf__depth': 11, 'clf__learning_rate': 0.009063666610208073, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 1.1812499889046504, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.07847590791409358, 0.09691114841009318, 0.11539714487438309, 0.20184506859599216, 0.20490559114532209, 0.27521699701738545, 0.43535912985818026)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2553
+Weighted Std: 0.1186
+
+Iteration 180:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.4962992593162394, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 11.60538099290856}
+Scores: (0.07316033211725528, 0.13121616490056948, 0.12125512886081503, 0.2121902123235961, 0.1904077662516547, 0.2912035812858955, 0.41247301548890447)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2548
+Weighted Std: 0.1081
+
+Iteration 181:
+Params: {'clf__iterations': 250, 'clf__depth': 6, 'clf__learning_rate': 0.0440604312703359, 'clf__l2_leaf_reg': 1.0380001087178274, 'clf__bagging_temperature': 1.7625475009856877, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.6945485357380743, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0813200473360362, 0.12194119842155385, 0.13210951010061184, 0.24125849967875002, 0.22462918868504697, 0.45130853756432354, 0.5057032332363962)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3235
+Weighted Std: 0.1531
+
+Iteration 182:
+Params: {'clf__iterations': 118, 'clf__depth': 13, 'clf__learning_rate': 0.0016808210634741696, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.1, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 14.531784586541871}
+Scores: (0.07381056804943809, 0.11725074110641252, 0.12676347064804577, 0.1846663633348881, 0.20185854723651267, 0.2662720779097879, 0.3410642171509438)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2293
+Weighted Std: 0.0820
+
+Iteration 183:
+Params: {'clf__iterations': 10, 'clf__depth': 16, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 0.2267746566488186, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.06319704024442001, 0.078520464839158, 0.11834984463539835, 0.09620462535731339, 0.10859963465628267, 0.16295875194668474, 0.23546873158867695)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1475
+Weighted Std: 0.0576
+
+Iteration 184:
+Params: {'clf__iterations': 300, 'clf__depth': 6, 'clf__learning_rate': 0.015161250132431216, 'clf__l2_leaf_reg': 0.6892095956362629, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 55, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07920233300233416, 0.1400880993508788, 0.14315235396105414, 0.2236789002874856, 0.22176826072439598, 0.4448420240025677, 0.509276858593629)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3224
+Weighted Std: 0.1519
+
+Iteration 185:
+Params: {'clf__iterations': 278, 'clf__depth': 8, 'clf__learning_rate': 0.01195322729720003, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.338266238376704, 'clf__rsm': 0.4363670106660865, 'clf__border_count': 35, 'clf__random_strength': 0.40701747679431993, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0880354991737757, 0.14145882396298684, 0.13114715860872583, 0.2549418893419372, 0.22879053984523995, 0.44484361018109664, 0.5114131798864067)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3278
+Weighted Std: 0.1502
+
+Iteration 186:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.039223225368686575, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6708555515307929, 'clf__rsm': 0.8738510181618514, 'clf__border_count': 45, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08006926952001117, 0.14249168764014442, 0.12126720036369613, 0.29444131187853717, 0.2250478280275307, 0.44076699045888623, 0.5099891825705596)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3302
+Weighted Std: 0.1493
+
+Iteration 187:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.021177185172083317, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.7372206948252815, 'clf__rsm': 0.7930068703473361, 'clf__border_count': 41, 'clf__random_strength': 0.6250656824205278, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08548575890145228, 0.14065901037904088, 0.12891540993371825, 0.28892470767384476, 0.2273937121173391, 0.4451845607659685, 0.5126702930699495)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3324
+Weighted Std: 0.1494
+
+Iteration 188:
+Params: {'clf__iterations': 238, 'clf__depth': 6, 'clf__learning_rate': 0.06006605944197356, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6347405724469332, 'clf__rsm': 1.0, 'clf__border_count': 48, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07897750088988795, 0.15897718690311066, 0.11913879277866121, 0.2758649845207249, 0.22746544751848286, 0.4427758045029494, 0.5138185372786647)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3303
+Weighted Std: 0.1502
+
+Iteration 189:
+Params: {'clf__iterations': 282, 'clf__depth': 7, 'clf__learning_rate': 0.04477748300859327, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5879226146580057, 'clf__rsm': 1.0, 'clf__border_count': 40, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 8.45710150003712}
+Scores: (0.08047071455360219, 0.13885045526285508, 0.11971525912270709, 0.2402386329528526, 0.21773976196657707, 0.3333585600913982, 0.4883072147099912)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2923
+Weighted Std: 0.1335
+
+Iteration 190:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.007257056396715228, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.9839666733163586, 'clf__rsm': 0.46833093305884765, 'clf__border_count': 26, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08724413121857656, 0.13821180929413093, 0.1341949169939844, 0.21730688452910055, 0.2261571093630939, 0.44470369982448327, 0.5113173218668782)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3219
+Weighted Std: 0.1535
+
+Iteration 191:
+Params: {'clf__iterations': 300, 'clf__depth': 14, 'clf__learning_rate': 3.6870182756035014e-05, 'clf__l2_leaf_reg': 0.061658412157804245, 'clf__bagging_temperature': 1.7751006979997952, 'clf__rsm': 0.1, 'clf__border_count': 36, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 16.52890226443042}
+Scores: (0.07816490396634772, 0.14035015768125908, 0.1209655988968687, 0.2103666315513936, 0.20662529783179423, 0.29956366829107656, 0.4390682020774341)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2667
+Weighted Std: 0.1159
+
+Iteration 192:
+Params: {'clf__iterations': 261, 'clf__depth': 7, 'clf__learning_rate': 0.032968035160441556, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.35958258170842566, 'clf__rsm': 0.7748585939684304, 'clf__border_count': 47, 'clf__random_strength': 0.712862997898485, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0950523779235174, 0.14083510205308936, 0.12689112983261502, 0.27971457198657956, 0.21729387549581905, 0.4417437119298027, 0.5067580066675741)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3272
+Weighted Std: 0.1485
+
+Iteration 193:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.1296388017873889, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 47, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08670453178632291, 0.12036065403447915, 0.12249983923084995, 0.19389680859699823, 0.18860837897785201, 0.4271797768452299, 0.4945094943484011)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3014
+Weighted Std: 0.1551
+
+Iteration 194:
+Params: {'clf__iterations': 300, 'clf__depth': 6, 'clf__learning_rate': 0.03132661409855339, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.7392571774127956, 'clf__rsm': 1.0, 'clf__border_count': 12, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 40.13164417259832}
+Scores: (0.08015702836711004, 0.11957360168753911, 0.12413224994651445, 0.22334221658054706, 0.21152874641992206, 0.26179642920727064, 0.42898592837417554)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2577
+Weighted Std: 0.1108
+
+Iteration 195:
+Params: {'clf__iterations': 235, 'clf__depth': 9, 'clf__learning_rate': 0.024299656227298634, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.0372911053031877, 'clf__rsm': 0.6857134242946427, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08405200357651862, 0.13879103248752023, 0.12324254243585625, 0.22077428626570994, 0.22547915558938145, 0.44840499423991464, 0.5066787551040055)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3207
+Weighted Std: 0.1540
+
+Iteration 196:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.02149030193398473, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.6488010912356731, 'clf__border_count': 52, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08708600975442476, 0.14000113381595825, 0.1258557867754777, 0.2773314198549226, 0.21585265676085305, 0.439349170358989, 0.5107832965883753)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3266
+Weighted Std: 0.1503
+
+Iteration 197:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.02157133938609579, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9494835388440652, 'clf__rsm': 1.0, 'clf__border_count': 55, 'clf__random_strength': 0.6902542463547138, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0820347791573518, 0.13876272325273653, 0.1251435437145586, 0.2578965752470287, 0.22645110650193914, 0.445108333733518, 0.5112190845511709)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3267
+Weighted Std: 0.1517
+
+Iteration 198:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.01657434143803104, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 0.6632721196627424, 'clf__border_count': 41, 'clf__random_strength': 0.36750768395955347, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09662459507034289, 0.15166911284297, 0.129964826058367, 0.26523163417766815, 0.23424810924397188, 0.44461548925142774, 0.5127381380874525)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3314
+Weighted Std: 0.1480
+
+Iteration 199:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.010136330353611537, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.09397820478691607, 'clf__rsm': 0.7331295578583424, 'clf__border_count': 44, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08490714186689885, 0.13423603390582847, 0.14759190474831543, 0.23764973986157745, 0.2346160712725311, 0.44625068078399416, 0.5150945024386935)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3287
+Weighted Std: 0.1508
+
+Iteration 200:
+Params: {'clf__iterations': 237, 'clf__depth': 1, 'clf__learning_rate': 1.0, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.06132279390548566, 0.09852059323131344, 0.10234329419642876, 0.21575667598870968, 0.18633192483733563, 0.3960154869331903, 0.45197103174607217)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2821
+Weighted Std: 0.1410
+
+Iteration 201:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.020476382156390218, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.16329449134285726, 'clf__rsm': 0.6163995141004178, 'clf__border_count': 49, 'clf__random_strength': 0.6174008778751683, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08494761901146158, 0.13849648229616385, 0.1326085238974422, 0.2917632420439129, 0.22467474763497236, 0.44381194270788255, 0.5135180306941642)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3324
+Weighted Std: 0.1494
+
+Iteration 202:
+Params: {'clf__iterations': 10, 'clf__depth': 1, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.07554965679140437, 'clf__rsm': 0.1, 'clf__border_count': 4, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.05073992791095505, 0.0963428510099289, 0.12815262589356802, 0.08344241090103474, 0.12474205696642365, 0.11195696635083754, 0.12498595352679137)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.1119
+Weighted Std: 0.0192
+
+Iteration 203:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.0177195180801082, 'clf__l2_leaf_reg': 1.0679627351102714, 'clf__bagging_temperature': 0.3813280976141935, 'clf__rsm': 0.559039635951768, 'clf__border_count': 54, 'clf__random_strength': 0.33660060073496406, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0879871656156204, 0.1415951074332517, 0.13675809704710262, 0.2706753762685621, 0.21030815511476916, 0.43837048970175396, 0.5040992394276615)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3241
+Weighted Std: 0.1475
+
+Iteration 204:
+Params: {'clf__iterations': 209, 'clf__depth': 10, 'clf__learning_rate': 0.01832960659023451, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8227949051039802, 'clf__rsm': 0.3052740149201436, 'clf__border_count': 48, 'clf__random_strength': 0.8438568322592637, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07931790546169082, 0.13967915979700113, 0.12130390294144903, 0.2737027123107774, 0.22611833849163876, 0.40567260924083814, 0.506615174024042)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3189
+Weighted Std: 0.1442
+
+Iteration 205:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.020358975683360436, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5835047789367493, 'clf__rsm': 0.8181699752299125, 'clf__border_count': 54, 'clf__random_strength': 0.4177393357557475, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08026666659781642, 0.1473028163667394, 0.13224835482402283, 0.2556963841082118, 0.22878809498854746, 0.44444595727168135, 0.5110478736435273)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3279
+Weighted Std: 0.1497
+
+Iteration 206:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.015714036409311787, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 0.6690722916863223, 'clf__border_count': 38, 'clf__random_strength': 0.6318431723817723, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09641920602113557, 0.14187695928199345, 0.14008326873384358, 0.2825348230823306, 0.2246819116572297, 0.43613003166078085, 0.5143389168849826)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3311
+Weighted Std: 0.1468
+
+Iteration 207:
+Params: {'clf__iterations': 276, 'clf__depth': 9, 'clf__learning_rate': 0.018075038354976973, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.6404720870240813, 'clf__border_count': 45, 'clf__random_strength': 0.4484803926473398, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08709359740415723, 0.15971901426012017, 0.13197369902121026, 0.27703109090243927, 0.22410915183532237, 0.44264564696138564, 0.5110751025765965)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3309
+Weighted Std: 0.1473
+
+Iteration 208:
+Params: {'clf__iterations': 236, 'clf__depth': 6, 'clf__learning_rate': 0.045650346270504065, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.10012034867329903, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.3020857531821938, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0821089253561729, 0.13911836283270715, 0.12529028763864014, 0.2536576644741532, 0.21871107639072845, 0.45017830556680977, 0.5117529951583574)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3260
+Weighted Std: 0.1538
+
+Iteration 209:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.027333601738210315, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.42399484085615846, 'clf__rsm': 0.6537607026034381, 'clf__border_count': 43, 'clf__random_strength': 0.6391899677268821, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09820303857293625, 0.1384072664658375, 0.13094746384243738, 0.26754541597917975, 0.21805756764764458, 0.4430503870023648, 0.5076565137212473)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3264
+Weighted Std: 0.1490
+
+Iteration 210:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.014579590170273202, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07946706128703372, 0.1489188130541959, 0.13511859839790571, 0.22675623897681596, 0.24026854380090518, 0.4484540831871218, 0.5158071325187037)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3283
+Weighted Std: 0.1525
+
+Iteration 211:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.01314987441091009, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.45942122593367923, 'clf__rsm': 0.6831916591588283, 'clf__border_count': 45, 'clf__random_strength': 0.4073177754340057, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08381596834845964, 0.14532404753296757, 0.13570180767747042, 0.2659867750511326, 0.2312128648649244, 0.4467998941881539, 0.5142957981785893)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3315
+Weighted Std: 0.1496
+
+Iteration 212:
+Params: {'clf__iterations': 300, 'clf__depth': 16, 'clf__learning_rate': 0.033130616773167726, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9291583677028121, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.07146976994944568, 0.1353774459117889, 0.1295056972086832, 0.22904255401771154, 0.2090749462798703, 0.3325158447458829, 0.44927691264935926)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2797
+Weighted Std: 0.1204
+
+Iteration 213:
+Params: {'clf__iterations': 164, 'clf__depth': 5, 'clf__learning_rate': 0.1235824828146792, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08124907152102813, 0.12063043955087778, 0.11237895544130466, 0.23037153907829236, 0.2120797646481027, 0.41052696141701867, 0.5056671030641874)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3087
+Weighted Std: 0.1516
+
+Iteration 214:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.015231850430030322, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8972751892453223, 'clf__rsm': 0.7584404319314383, 'clf__border_count': 40, 'clf__random_strength': 0.2116492299384119, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09191243978472174, 0.15439547757087405, 0.13318917102743147, 0.2614526539783734, 0.23882285314838653, 0.4443829861113989, 0.5108432986972643)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3315
+Weighted Std: 0.1467
+
+Iteration 215:
+Params: {'clf__iterations': 269, 'clf__depth': 9, 'clf__learning_rate': 0.013558787557817337, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 0.5309832342221836, 'clf__border_count': 47, 'clf__random_strength': 0.19382653422191434, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0845596799901933, 0.1657930540210871, 0.1384305822362667, 0.2568153770647314, 0.2263324519481183, 0.44236616960497915, 0.5127104952475507)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3298
+Weighted Std: 0.1475
+
+Iteration 216:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.01663500012011161, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 0.7824794219375596, 'clf__border_count': 48, 'clf__random_strength': 0.34336904807318014, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08999806502336477, 0.14317805597134764, 0.13621913749608267, 0.27958719137585974, 0.2322763243029928, 0.44313047582507437, 0.5146703197631254)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3331
+Weighted Std: 0.1480
+
+Iteration 217:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.014945569791652466, 'clf__l2_leaf_reg': 2.348978232821324, 'clf__bagging_temperature': 1.4753543688696074, 'clf__rsm': 0.7232130742928724, 'clf__border_count': 42, 'clf__random_strength': 0.3930264336526334, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08563591681609359, 0.15313386458564046, 0.12409943904171106, 0.2626348140340938, 0.23064019140888736, 0.4404141472638113, 0.5096835790366425)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3278
+Weighted Std: 0.1483
+
+Iteration 218:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.018690489554414127, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.0, 'clf__rsm': 0.8814976074143867, 'clf__border_count': 56, 'clf__random_strength': 0.27048412416597006, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09128660063261809, 0.14337572306802704, 0.14030706729292025, 0.25775759607052356, 0.23423579795773325, 0.4422042060541209, 0.5126815529547967)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3301
+Weighted Std: 0.1477
+
+Iteration 219:
+Params: {'clf__iterations': 164, 'clf__depth': 9, 'clf__learning_rate': 9.70176314144736e-05, 'clf__l2_leaf_reg': 0.00021706832191387279, 'clf__bagging_temperature': 1.1542902440195026, 'clf__rsm': 1.0, 'clf__border_count': 36, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 15.580533884824467}
+Scores: (0.07749398870775175, 0.11342216719304062, 0.16510800073565787, 0.12691484871261655, 0.17623934730188706, 0.27574977400742956, 0.3629174657080506)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2280
+Weighted Std: 0.0956
+
+Iteration 220:
+Params: {'clf__iterations': 208, 'clf__depth': 7, 'clf__learning_rate': 0.01770705458837156, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.9647251720629878, 'clf__rsm': 0.40858843384687615, 'clf__border_count': 49, 'clf__random_strength': 0.27966278738606504, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08782273110820654, 0.14968471097482489, 0.14089056458402233, 0.25551263823934217, 0.2286290474775265, 0.4434373283970074, 0.5102820442369521)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3288
+Weighted Std: 0.1475
+
+Iteration 221:
+Params: {'clf__iterations': 210, 'clf__depth': 7, 'clf__learning_rate': 0.040011906901741466, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.97653363367271, 'clf__rsm': 0.8565815694444404, 'clf__border_count': 52, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08406785892716498, 0.14686928688326306, 0.11649017206711532, 0.2696009350557533, 0.22021662962037003, 0.44154980487889794, 0.5070181355233363)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3252
+Weighted Std: 0.1503
+
+Iteration 222:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 0.01098613444874593, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.8545092360898537, 'clf__rsm': 0.8605447839477106, 'clf__border_count': 42, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08961148085313886, 0.12158743160646182, 0.1135353353536751, 0.21673877586691437, 0.20366976193544326, 0.4320480559823011, 0.49968435354157753)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3089
+Weighted Std: 0.1544
+
+Iteration 223:
+Params: {'clf__iterations': 246, 'clf__depth': 7, 'clf__learning_rate': 0.010088958200143093, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.4235987534034048, 'clf__rsm': 0.4382985064116873, 'clf__border_count': 47, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08484300120911759, 0.14412057378869808, 0.13988999107549832, 0.23814029899994033, 0.23320169085028022, 0.43720762142464964, 0.512002264609367)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3257
+Weighted Std: 0.1486
+
+Iteration 224:
+Params: {'clf__iterations': 222, 'clf__depth': 9, 'clf__learning_rate': 0.0170293764538818, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.726674132052037, 'clf__rsm': 0.3686985897051125, 'clf__border_count': 50, 'clf__random_strength': 0.09969293665854109, 'clf__scale_pos_weight': 3.7867014663545087}
+Scores: (0.0771163918262289, 0.16885323390857204, 0.1358954271913343, 0.24827528739674204, 0.22562396569488496, 0.407354782152117, 0.5072373296899243)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3192
+Weighted Std: 0.1418
+
+Iteration 225:
+Params: {'clf__iterations': 239, 'clf__depth': 7, 'clf__learning_rate': 0.022717896775695252, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.278005516461774, 'clf__rsm': 0.4593386081707743, 'clf__border_count': 64, 'clf__random_strength': 0.4666100124189072, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08535908283613901, 0.14707172996742499, 0.13358677006806052, 0.278996516173793, 0.22980783611846464, 0.43324062723123524, 0.5080756434910529)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3286
+Weighted Std: 0.1450
+
+Iteration 226:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.021041665490449772, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5603822495649013, 'clf__rsm': 1.0, 'clf__border_count': 63, 'clf__random_strength': 0.23829355586064277, 'clf__scale_pos_weight': 1.0}
+Scores: (0.10506074589578959, 0.14356395021308185, 0.12793904754393276, 0.2813972979582554, 0.22888195776861534, 0.4485170539255092, 0.5139273070817488)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3334
+Weighted Std: 0.1493
+
+Iteration 227:
+Params: {'clf__iterations': 272, 'clf__depth': 8, 'clf__learning_rate': 0.02133248831158374, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.3419559494270572, 'clf__rsm': 0.5417546867657617, 'clf__border_count': 40, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07593258177097306, 0.15122306424058618, 0.13517621719500722, 0.2794744685928326, 0.22799385339135428, 0.4329851768836687, 0.5106889826278366)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3291
+Weighted Std: 0.1460
+
+Iteration 228:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.013768620991944529, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.4629655166701637, 'clf__border_count': 36, 'clf__random_strength': 0.7653030887127824, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09625732737111099, 0.14603355440268959, 0.12933976785644663, 0.2774998818737089, 0.23079285035062141, 0.4232136024083197, 0.5161473205470937)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3283
+Weighted Std: 0.1461
+
+Iteration 229:
+Params: {'clf__iterations': 257, 'clf__depth': 8, 'clf__learning_rate': 0.01668217734092076, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5719816616496445, 'clf__rsm': 0.5247095267854333, 'clf__border_count': 47, 'clf__random_strength': 0.6161668664053156, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08333332092568624, 0.14715578123684375, 0.12643477336565817, 0.27514866454515086, 0.2340139654646713, 0.4439058725293989, 0.509038310918476)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3305
+Weighted Std: 0.1479
+
+Iteration 230:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.018422585976199505, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 55, 'clf__random_strength': 0.2838257468500394, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09453983748823937, 0.1456266261467008, 0.1356471780488989, 0.2743385320278599, 0.22978122046150104, 0.44001135263296115, 0.518353084727224)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3324
+Weighted Std: 0.1488
+
+Iteration 231:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.029814324057281034, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.10160421517598134, 'clf__rsm': 0.4047667454421203, 'clf__border_count': 52, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08591212846696275, 0.137772760229446, 0.13617130118872697, 0.2728036331444761, 0.22660461063590087, 0.4336933197294306, 0.5099450918911905)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3274
+Weighted Std: 0.1468
+
+Iteration 232:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.018165376269172626, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.0532949820297044, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.26843202234214936, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0837933666559477, 0.151153927430775, 0.14078099732669277, 0.271010930393855, 0.23273938709931688, 0.44565677183023256, 0.5102660213240668)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3322
+Weighted Std: 0.1465
+
+Iteration 233:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.03599176972489292, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.7436994340657169, 'clf__rsm': 0.8528595080229457, 'clf__border_count': 52, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08259758717852275, 0.14561404471622166, 0.12603907705234701, 0.2754050699019959, 0.22930465260639163, 0.4366305256719236, 0.507169874549845)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3275
+Weighted Std: 0.1469
+
+Iteration 234:
+Params: {'clf__iterations': 271, 'clf__depth': 7, 'clf__learning_rate': 0.023402887592526345, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.47932082739872617, 'clf__border_count': 49, 'clf__random_strength': 0.5085901006530978, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08567030151114388, 0.1379580179656858, 0.1324278360293478, 0.26215656071879817, 0.22225788905185523, 0.44115233514799584, 0.5122608877895415)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3268
+Weighted Std: 0.1504
+
+Iteration 235:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.022261737823364734, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.5408556566255748, 'clf__rsm': 0.6897865199613952, 'clf__border_count': 34, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08537622306083244, 0.1547492575842766, 0.13277980868632377, 0.27688493749774923, 0.2351942515888435, 0.43090933967408734, 0.5124326312319072)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3303
+Weighted Std: 0.1449
+
+Iteration 236:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.019307811418380318, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.595220664305034, 'clf__rsm': 1.0, 'clf__border_count': 54, 'clf__random_strength': 0.3097950966059651, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09033983746552787, 0.15147352000750602, 0.13019530836605453, 0.2604789170269367, 0.23224716464643028, 0.4524045106967448, 0.5133697158587011)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3320
+Weighted Std: 0.1504
+
+Iteration 237:
+Params: {'clf__iterations': 198, 'clf__depth': 6, 'clf__learning_rate': 0.031463936248812795, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.7537140432533294, 'clf__rsm': 0.6002363484894956, 'clf__border_count': 64, 'clf__random_strength': 0.29403053077783753, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08440010927346066, 0.13895620975438472, 0.1286296546539898, 0.25513414596552475, 0.22668933757146417, 0.4400299878362999, 0.5106861512014709)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3256
+Weighted Std: 0.1502
+
+Iteration 238:
+Params: {'clf__iterations': 277, 'clf__depth': 7, 'clf__learning_rate': 0.02125981822965157, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6572542454487695, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.2771886688104484, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08946401495735423, 0.15177228369183104, 0.14290575421893226, 0.2628628716747338, 0.23518674033722065, 0.4482344378868187, 0.5126062610814123)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3331
+Weighted Std: 0.1472
+
+Iteration 239:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.014252467153817661, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.9265132788239396, 'clf__border_count': 53, 'clf__random_strength': 0.3314282948701987, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09589427239572824, 0.15181336895085096, 0.13834754135544824, 0.2675660007508272, 0.230517518996534, 0.44466520702064255, 0.5168604528011006)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3330
+Weighted Std: 0.1484
+
+Iteration 240:
+Params: {'clf__iterations': 279, 'clf__depth': 8, 'clf__learning_rate': 0.018422478854024704, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.09112622220842488, 'clf__rsm': 1.0, 'clf__border_count': 57, 'clf__random_strength': 0.32181664805713334, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08656225863918739, 0.14195816593726163, 0.1402415144011865, 0.268335484871279, 0.22765832433184044, 0.4427697574383043, 0.5103139303485986)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3297
+Weighted Std: 0.1475
+
+Iteration 241:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.018041674484952107, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9022144086139514, 'clf__rsm': 1.0, 'clf__border_count': 57, 'clf__random_strength': 0.2985805335605749, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08310400561163654, 0.14669107158992578, 0.1376674814795098, 0.2626998520567682, 0.2350447449923491, 0.4445472209532825, 0.5169496031795013)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3322
+Weighted Std: 0.1495
+
+Iteration 242:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.019908426703065543, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.11500537993577317, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.23856387817131913, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09823139650161006, 0.13980036090798081, 0.13768953537369347, 0.2711222723988792, 0.23262062768478037, 0.44792083012439277, 0.5104575229360384)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3321
+Weighted Std: 0.1475
+
+Iteration 243:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.017386742543796095, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.6232885885918753, 'clf__rsm': 0.507595683318931, 'clf__border_count': 45, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0795384772327165, 0.14595268777151585, 0.1381313548964525, 0.29051053845723435, 0.2196021971720376, 0.380246140895195, 0.5106407691516945)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3179
+Weighted Std: 0.1398
+
+Iteration 244:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.02404695786368741, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.756688466236324, 'clf__rsm': 0.5712625705297149, 'clf__border_count': 20, 'clf__random_strength': 0.9396859575278046, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09069062137961283, 0.15142136710108645, 0.13851659269413802, 0.270020831901655, 0.23420231851508985, 0.365627878555434, 0.5061296123603803)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3142
+Weighted Std: 0.1348
+
+Iteration 245:
+Params: {'clf__iterations': 300, 'clf__depth': 1, 'clf__learning_rate': 1.0, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.1, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.06313068632730343, 0.10653445187917662, 0.10139454970371307, 0.21295921597654494, 0.20223779463556565, 0.37687942672378255, 0.43885773225589186)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2777
+Weighted Std: 0.1315
+
+Iteration 246:
+Params: {'clf__iterations': 257, 'clf__depth': 8, 'clf__learning_rate': 0.07192386604954533, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.7344049241289494, 'clf__rsm': 0.14755242314759892, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08436527579811179, 0.1384037534411704, 0.1288043507654207, 0.2772481150603015, 0.20768865502915518, 0.42340572667016163, 0.5015697930740519)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3195
+Weighted Std: 0.1460
+
+Iteration 247:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 0.03699018242702455, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.6622470843111192, 'clf__rsm': 0.2269418206781621, 'clf__border_count': 64, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08617959024814298, 0.16083089520112215, 0.12683485004420791, 0.2655559766569797, 0.1990344991814202, 0.3688360612337956, 0.4962257682086007)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3047
+Weighted Std: 0.1373
+
+Iteration 248:
+Params: {'clf__iterations': 256, 'clf__depth': 8, 'clf__learning_rate': 0.041599952999980594, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.2112404429037805, 'clf__rsm': 0.5481392810926438, 'clf__border_count': 54, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08378741359664822, 0.14756727277733336, 0.13125817010085686, 0.30079563728727926, 0.2151433358801666, 0.435610186921472, 0.5076527550010285)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3292
+Weighted Std: 0.1467
+
+Iteration 249:
+Params: {'clf__iterations': 210, 'clf__depth': 8, 'clf__learning_rate': 0.037920768534610357, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.3031891462076899, 'clf__rsm': 0.3105736602821883, 'clf__border_count': 64, 'clf__random_strength': 0.6402541793842588, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0771199588235821, 0.13937716297619926, 0.13398583848857012, 0.28429427779770045, 0.2200854019739042, 0.43004563002842533, 0.5129263704261923)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3274
+Weighted Std: 0.1482
+
+Iteration 250:
+Params: {'clf__iterations': 235, 'clf__depth': 7, 'clf__learning_rate': 0.04491774800979753, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.8567412365402932, 'clf__rsm': 0.3813631388549025, 'clf__border_count': 43, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08821706785146613, 0.14026520730107492, 0.1266001442701229, 0.27441399954083534, 0.22412485484341457, 0.4187031118140855, 0.5081613627722363)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3227
+Weighted Std: 0.1453
+
+Iteration 251:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.015668745437381504, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.2711001965848157, 'clf__rsm': 0.893618787323548, 'clf__border_count': 40, 'clf__random_strength': 0.44910863492937664, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08990698040490298, 0.1383665904778671, 0.13440801421225937, 0.2657899278555876, 0.23222409457534407, 0.4431549691518101, 0.5113845717031693)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3297
+Weighted Std: 0.1485
+
+Iteration 252:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.01731249351251509, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.3110316674261975, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.3326863828381793, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08739252964519137, 0.14725308839452989, 0.12984094239119182, 0.2619230070478655, 0.2236745189178979, 0.4451552886621839, 0.5175194792565123)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3297
+Weighted Std: 0.1520
+
+Iteration 253:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.011778294368157494, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9444265387148179, 'clf__rsm': 0.6410235017909324, 'clf__border_count': 39, 'clf__random_strength': 0.42096560737927025, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09448016517315712, 0.15075614914652635, 0.13005518080799752, 0.2559419236699186, 0.23173098797072444, 0.44598379916263603, 0.5163545025280017)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3307
+Weighted Std: 0.1504
+
+Iteration 254:
+Params: {'clf__iterations': 270, 'clf__depth': 7, 'clf__learning_rate': 0.014004858041752518, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8925666922606097, 'clf__rsm': 0.6882548976530403, 'clf__border_count': 43, 'clf__random_strength': 0.2538967570683098, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09169641037189552, 0.15528858605110166, 0.13217055425569008, 0.25574241233909417, 0.22639761377115172, 0.4460052272870862, 0.5096923688753398)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3285
+Weighted Std: 0.1485
+
+Iteration 255:
+Params: {'clf__iterations': 270, 'clf__depth': 7, 'clf__learning_rate': 0.02286695737615909, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.7188853854919175, 'clf__rsm': 0.9243246921054467, 'clf__border_count': 64, 'clf__random_strength': 0.27546962240726947, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08566548312031669, 0.14915163517435714, 0.13512540822273475, 0.2611668415186922, 0.23564287224714817, 0.4466288017861474, 0.5101811254785894)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3308
+Weighted Std: 0.1478
+
+Iteration 256:
+Params: {'clf__iterations': 271, 'clf__depth': 9, 'clf__learning_rate': 0.02014193947319078, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.3517634019509431, 'clf__rsm': 0.5300784470747607, 'clf__border_count': 44, 'clf__random_strength': 0.6969310509971338, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08663401291485383, 0.14502324569219477, 0.13411719833592997, 0.2788401058319747, 0.23614918212100847, 0.4329759426418881, 0.5128632067675903)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3308
+Weighted Std: 0.1458
+
+Iteration 257:
+Params: {'clf__iterations': 251, 'clf__depth': 10, 'clf__learning_rate': 0.012674991072199255, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.1965591545465343, 'clf__rsm': 0.39767231201093156, 'clf__border_count': 40, 'clf__random_strength': 0.3972343067271671, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08911408096233822, 0.14803270358189238, 0.13353632944926977, 0.2759007102162037, 0.22583075211862044, 0.442738950385809, 0.5112961244775616)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3305
+Weighted Std: 0.1479
+
+Iteration 258:
+Params: {'clf__iterations': 277, 'clf__depth': 7, 'clf__learning_rate': 0.031812092359457915, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.2679601856760696, 'clf__rsm': 1.0, 'clf__border_count': 41, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08270483539725107, 0.14374230116595782, 0.12359748750983138, 0.2891290672317002, 0.21791179906301275, 0.4433815846241966, 0.5110756714721578)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3295
+Weighted Std: 0.1505
+
+Iteration 259:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.0147023849681882, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.1383465431389417, 'clf__rsm': 0.5154702176790107, 'clf__border_count': 40, 'clf__random_strength': 0.4597860350930224, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08580998441192833, 0.1528280459550283, 0.13013594516886837, 0.2680580695285606, 0.225326568825508, 0.4405140632283138, 0.5120381626436918)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3289
+Weighted Std: 0.1485
+
+Iteration 260:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.014821356026861188, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.8599197749238893, 'clf__border_count': 51, 'clf__random_strength': 0.3424337137974702, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0871800149539371, 0.1558757566028541, 0.13189483135147004, 0.256759397598764, 0.22894176577738654, 0.4435842011810682, 0.5169405353130332)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3302
+Weighted Std: 0.1502
+
+Iteration 261:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.016447215240493213, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.35291039954734355, 'clf__rsm': 1.0, 'clf__border_count': 57, 'clf__random_strength': 0.3154746916707655, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09257035130919193, 0.1446230362994118, 0.13796904042066566, 0.27342994084512906, 0.23591190381198826, 0.4501757555146264, 0.5159551334547228)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3351
+Weighted Std: 0.1489
+
+Iteration 262:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.015213095235641825, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.27772767280151667, 'clf__rsm': 0.9477031257915831, 'clf__border_count': 58, 'clf__random_strength': 0.25969933122600275, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09602874575052466, 0.14780029205847126, 0.13902023581829398, 0.2687153774634462, 0.22913621048306215, 0.4445761777518173, 0.5118641580184667)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3314
+Weighted Std: 0.1472
+
+Iteration 263:
+Params: {'clf__iterations': 280, 'clf__depth': 8, 'clf__learning_rate': 0.0492265880482894, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.4606320891125183, 'clf__rsm': 0.4127744941510181, 'clf__border_count': 64, 'clf__random_strength': 0.7451189456002499, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09147836174381979, 0.15482810961165444, 0.11555636435781654, 0.26467630950109244, 0.21711476749086445, 0.43427040678652823, 0.5082504258690257)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3234
+Weighted Std: 0.1492
+
+Iteration 264:
+Params: {'clf__iterations': 210, 'clf__depth': 9, 'clf__learning_rate': 0.01681574258916535, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8409398795801732, 'clf__rsm': 0.36790468668674414, 'clf__border_count': 57, 'clf__random_strength': 0.3812437035390067, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09155037783484635, 0.14988106052199646, 0.13901315742345838, 0.26976833928068816, 0.22881763040894756, 0.4377033545823604, 0.509868676794745)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3295
+Weighted Std: 0.1455
+
+Iteration 265:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.018221442349393054, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.1268144728362375, 'clf__rsm': 1.0, 'clf__border_count': 51, 'clf__random_strength': 0.3915689256389899, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08762587033115865, 0.14764314310814194, 0.13074260301639307, 0.27828062138277265, 0.24045054981000177, 0.4446992578277075, 0.5164982995397753)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3348
+Weighted Std: 0.1484
+
+Iteration 266:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.01946425286035032, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 50, 'clf__random_strength': 0.4053765841478902, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08566476920636402, 0.14750094323970692, 0.13415878580644544, 0.2731934036455341, 0.23220799796316816, 0.44662109366772995, 0.5143052512200836)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3327
+Weighted Std: 0.1490
+
+Iteration 267:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.016898338653321174, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8058780715713174, 'clf__rsm': 1.0, 'clf__border_count': 53, 'clf__random_strength': 0.36808283350698145, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08044479194393989, 0.1503306420292338, 0.13897933752398503, 0.2607972315899616, 0.23310346322174788, 0.44601672103222284, 0.5144885976316175)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3316
+Weighted Std: 0.1490
+
+Iteration 268:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 1e-05, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 1.509699768971041, 'clf__rsm': 0.1, 'clf__border_count': 44, 'clf__random_strength': 0.3746371383464425, 'clf__scale_pos_weight': 9.72194379619279}
+Scores: (0.0624765583546143, 0.11946707040721011, 0.11814210763775655, 0.20107059287358758, 0.17523926199011583, 0.29059094368384136, 0.41774692350434695)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2501
+Weighted Std: 0.1143
+
+Iteration 269:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.022426101675381425, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.0942187633322242, 'clf__rsm': 1.0, 'clf__border_count': 57, 'clf__random_strength': 0.26725540905482764, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0900663580863634, 0.14726888338217087, 0.13388830017318454, 0.2544282475573407, 0.2289560133360963, 0.4486600643894845, 0.515506370894301)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3303
+Weighted Std: 0.1511
+
+Iteration 270:
+Params: {'clf__iterations': 278, 'clf__depth': 7, 'clf__learning_rate': 0.034570338165063025, 'clf__l2_leaf_reg': 0.3166235007908547, 'clf__bagging_temperature': 1.2816946675574867, 'clf__rsm': 0.8307015457706303, 'clf__border_count': 42, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07866531047934044, 0.12666340968413214, 0.11404015750744112, 0.23637508367047316, 0.21210023912231804, 0.44640715803160774, 0.5004097868751466)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3165
+Weighted Std: 0.1547
+
+Iteration 271:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.02174821174706542, 'clf__l2_leaf_reg': 1.5097559006173111, 'clf__bagging_temperature': 1.1892646513055722, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.2675478799923895, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09490861373649744, 0.15050119426800404, 0.13007729976374185, 0.26945968604222087, 0.23599676333965658, 0.4444037972641837, 0.5088597493973145)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3312
+Weighted Std: 0.1465
+
+Iteration 272:
+Params: {'clf__iterations': 246, 'clf__depth': 6, 'clf__learning_rate': 0.026222068333904877, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.11532622013868533, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.41956049532198814, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08053694556939381, 0.14258462933725333, 0.13884573186866128, 0.26918825755432835, 0.2228049898956712, 0.44225416367710285, 0.5106945850242496)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3286
+Weighted Std: 0.1486
+
+Iteration 273:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.016149164323990828, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.26799970811772394, 'clf__rsm': 1.0, 'clf__border_count': 41, 'clf__random_strength': 0.5094347444005239, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08396197042801022, 0.14821698375089157, 0.13365122797732976, 0.27981640856246165, 0.2271249058976238, 0.4467236674704054, 0.5131662723654732)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3325
+Weighted Std: 0.1490
+
+Iteration 274:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.016690719057595303, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.42089832070237, 'clf__rsm': 0.9163000489982571, 'clf__border_count': 37, 'clf__random_strength': 0.7059232871250887, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0924894085984048, 0.13703319410096354, 0.13745584751959403, 0.2805598420431478, 0.2383956219560445, 0.4395793203860936, 0.5158062540701912)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3336
+Weighted Std: 0.1473
+
+Iteration 275:
+Params: {'clf__iterations': 223, 'clf__depth': 16, 'clf__learning_rate': 0.003269081337151019, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.4308722284754505, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 50.0}
+Scores: (0.07513279657085181, 0.10459251482914145, 0.13243651654757216, 0.11831112524358224, 0.19133278236047851, 0.28190663028459956, 0.3840376885997667)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2318
+Weighted Std: 0.1075
+
+Iteration 276:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.020625403851628803, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.4958735093260899, 'clf__rsm': 1.0, 'clf__border_count': 36, 'clf__random_strength': 1.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0842334809784894, 0.13732925001178878, 0.1218900079193882, 0.28542022366600317, 0.21892772052519374, 0.4458918996981872, 0.5131603766246374)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3296
+Weighted Std: 0.1523
+
+Iteration 277:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.01608017220384807, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.014317053576996964, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.23139059440135942, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08876484213743491, 0.14812788244912986, 0.14011520048900636, 0.26339596669238236, 0.23456867023352307, 0.44512427694933704, 0.5127397575284343)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3318
+Weighted Std: 0.1475
+
+Iteration 278:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.013981647854134145, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 38, 'clf__random_strength': 0.5582176076612672, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08299014999203655, 0.14855559087080555, 0.13762927641472547, 0.2788048395320065, 0.228269218013112, 0.4455996955626552, 0.511529480434474)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3323
+Weighted Std: 0.1477
+
+Iteration 279:
+Params: {'clf__iterations': 300, 'clf__depth': 10, 'clf__learning_rate': 0.01554197807128641, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.9823718570557551, 'clf__rsm': 0.8811789487316875, 'clf__border_count': 37, 'clf__random_strength': 0.6340677016869166, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09493454412318726, 0.15146838823936723, 0.13461217046070945, 0.27862405436462606, 0.22610208550278144, 0.4404163036604624, 0.5154328163078089)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3320
+Weighted Std: 0.1478
+
+Iteration 280:
+Params: {'clf__iterations': 220, 'clf__depth': 7, 'clf__learning_rate': 0.01930739142605267, 'clf__l2_leaf_reg': 0.6862590899401525, 'clf__bagging_temperature': 1.4479865514044767, 'clf__rsm': 0.44993173325234115, 'clf__border_count': 53, 'clf__random_strength': 0.41297863375020477, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08422047986909803, 0.1357389851547459, 0.1334377860248109, 0.24348827235020207, 0.228524425258809, 0.44128698237699593, 0.5123399889997325)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3252
+Weighted Std: 0.1511
+
+Iteration 281:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.0374415736130251, 'clf__l2_leaf_reg': 0.0019427187285199583, 'clf__bagging_temperature': 0.7949906531994448, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.0390818169957161, 'clf__scale_pos_weight': 1.0}
+Scores: (0.07291788050196019, 0.10867684441594423, 0.11394133633781228, 0.1749420920667646, 0.17914608194898213, 0.4266249674269299, 0.49857344652210367)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2956
+Weighted Std: 0.1621
+
+Iteration 282:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.01827272993492259, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.3052678751034827, 'clf__rsm': 0.9154323970897507, 'clf__border_count': 36, 'clf__random_strength': 0.7102326659182647, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09211736739341786, 0.1449071564475729, 0.12510972957767708, 0.28950690209500624, 0.2230429280022495, 0.44057212751349917, 0.512830700464828)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3308
+Weighted Std: 0.1491
+
+Iteration 283:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.013990978719773119, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.11932301550676823, 'clf__rsm': 1.0, 'clf__border_count': 44, 'clf__random_strength': 0.5449669722866218, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09033100695730516, 0.14502114867617705, 0.1271877840461611, 0.2817232797156172, 0.2274832811224094, 0.4466736653491917, 0.5121545918802142)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3318
+Weighted Std: 0.1494
+
+Iteration 284:
+Params: {'clf__iterations': 284, 'clf__depth': 6, 'clf__learning_rate': 0.019339366435664168, 'clf__l2_leaf_reg': 1.3713869786433235, 'clf__bagging_temperature': 0.2165703331637708, 'clf__rsm': 1.0, 'clf__border_count': 54, 'clf__random_strength': 0.41355878646736893, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08603732396406463, 0.14216940349633336, 0.12560237630531557, 0.2574966456273847, 0.22925834410211882, 0.44313837891520597, 0.5090658561669603)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3266
+Weighted Std: 0.1498
+
+Iteration 285:
+Params: {'clf__iterations': 281, 'clf__depth': 9, 'clf__learning_rate': 0.015761934864064523, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.2653869840054475, 'clf__rsm': 0.7615733930030347, 'clf__border_count': 40, 'clf__random_strength': 0.5964102044288957, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09256264237071997, 0.15010235600170957, 0.1349243178122248, 0.27273820786764835, 0.230813487316612, 0.4439678708714324, 0.5133331400950972)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3321
+Weighted Std: 0.1477
+
+Iteration 286:
+Params: {'clf__iterations': 231, 'clf__depth': 8, 'clf__learning_rate': 0.019687316067121933, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.0074388922141337, 'clf__rsm': 0.6464724321335005, 'clf__border_count': 52, 'clf__random_strength': 0.39582425364938684, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0932655162040684, 0.1452944790703301, 0.13140169341198898, 0.2651035458233216, 0.23015963783768142, 0.43754121892810255, 0.5117192015661581)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3284
+Weighted Std: 0.1476
+
+Iteration 287:
+Params: {'clf__iterations': 235, 'clf__depth': 9, 'clf__learning_rate': 0.013329704095004585, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.8482814076789962, 'clf__rsm': 0.3241105511199678, 'clf__border_count': 45, 'clf__random_strength': 0.31961541864363685, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09466709381853577, 0.1499964674039702, 0.13618418100942326, 0.28289914609145234, 0.2289662557899857, 0.4452371505516587, 0.5112551883380889)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3332
+Weighted Std: 0.1466
+
+Iteration 288:
+Params: {'clf__iterations': 230, 'clf__depth': 10, 'clf__learning_rate': 0.011692365107637595, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.8031662818477744, 'clf__rsm': 0.12185005916982075, 'clf__border_count': 45, 'clf__random_strength': 0.31651104801521746, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08473225784311941, 0.12748020266018031, 0.1286790013739968, 0.2380231867086292, 0.20958676470395585, 0.37994037581152884, 0.49781318084792336)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3032
+Weighted Std: 0.1417
+
+Iteration 289:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.014797968054893534, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.9414180913897239, 'clf__rsm': 0.8257191897697079, 'clf__border_count': 39, 'clf__random_strength': 0.6551236294361235, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09959420713495773, 0.13483947169543542, 0.1333859128013228, 0.26584823121832146, 0.2295273756183599, 0.43811901758265837, 0.5122595965517764)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3284
+Weighted Std: 0.1482
+
+Iteration 290:
+Params: {'clf__iterations': 300, 'clf__depth': 16, 'clf__learning_rate': 0.0008931411416114603, 'clf__l2_leaf_reg': 1e-05, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.14600959690429763, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 15.770934834687429}
+Scores: (0.07104911315091593, 0.08572964367406662, 0.10736074883479571, 0.150067021855681, 0.14692186980317723, 0.23111596239409943, 0.4461346999106244)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.2289
+Weighted Std: 0.1335
+
+Iteration 291:
+Params: {'clf__iterations': 268, 'clf__depth': 4, 'clf__learning_rate': 0.020518168104647086, 'clf__l2_leaf_reg': 0.06709260641644625, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.5483070332997645, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.06791915518143851, 0.12998597221949376, 0.13814813421647942, 0.22645038595134814, 0.23098012708649462, 0.4245653795045948, 0.5080874006015009)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3181
+Weighted Std: 0.1491
+
+Iteration 292:
+Params: {'clf__iterations': 300, 'clf__depth': 12, 'clf__learning_rate': 0.023406142689516834, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5321143156372836, 'clf__rsm': 0.7903696933687392, 'clf__border_count': 64, 'clf__random_strength': 0.7939196159984877, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09010147427486201, 0.15242912744846326, 0.11754474591368691, 0.25616889495489287, 0.22204892344610513, 0.4219908961544197, 0.512085975187529)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3214
+Weighted Std: 0.1484
+
+Iteration 293:
+Params: {'clf__iterations': 217, 'clf__depth': 9, 'clf__learning_rate': 0.01399960453797305, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.889228536872194, 'clf__rsm': 0.44710001630700014, 'clf__border_count': 39, 'clf__random_strength': 0.3985574772558887, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08950253256586964, 0.14927930405584125, 0.13262057744390965, 0.24410923704733228, 0.22330989619034847, 0.44043335832831165, 0.5112237816207147)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3250
+Weighted Std: 0.1499
+
+Iteration 294:
+Params: {'clf__iterations': 216, 'clf__depth': 6, 'clf__learning_rate': 0.0584667570149937, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.9737900025796538, 'clf__rsm': 0.30670029172269686, 'clf__border_count': 64, 'clf__random_strength': 0.0, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08337638421976071, 0.13084208784959642, 0.1290372722158999, 0.22080577101658944, 0.2067808096196647, 0.43565569486545713, 0.5042813724800073)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3140
+Weighted Std: 0.1532
+
+Iteration 295:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.01994304192805206, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.02851571869075, 'clf__rsm': 1.0, 'clf__border_count': 38, 'clf__random_strength': 0.5231354283698174, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08850388150824004, 0.15371778960364554, 0.14023978773275386, 0.2740361784787532, 0.23346791824696633, 0.4428736584569252, 0.5146050958948803)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3336
+Weighted Std: 0.1467
+
+Iteration 296:
+Params: {'clf__iterations': 300, 'clf__depth': 9, 'clf__learning_rate': 0.021263252638318707, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 38, 'clf__random_strength': 0.5855857970912647, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09122403697590786, 0.14631894097082193, 0.13059396282367863, 0.2853532949902548, 0.22528882408176584, 0.44609097978671447, 0.5142663894926227)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3329
+Weighted Std: 0.1494
+
+Iteration 297:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.018551348747832687, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 1.0, 'clf__border_count': 64, 'clf__random_strength': 0.22085239264954792, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09491127435397295, 0.1488576508252119, 0.1413519972279255, 0.2593893654822511, 0.23358981281170654, 0.448894145225668, 0.511471355795468)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3320
+Weighted Std: 0.1475
+
+Iteration 298:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.01881225598165505, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 1.5973315218922595, 'clf__rsm': 1.0, 'clf__border_count': 40, 'clf__random_strength': 0.4588911640455654, 'clf__scale_pos_weight': 1.0}
+Scores: (0.0883670569384177, 0.1494524367524718, 0.13109026030950785, 0.24330382462559036, 0.22469105763969652, 0.4434798423751033, 0.5136853427105488)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3262
+Weighted Std: 0.1513
+
+Iteration 299:
+Params: {'clf__iterations': 300, 'clf__depth': 7, 'clf__learning_rate': 0.01905027710433784, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 2.0, 'clf__rsm': 0.9054244652740544, 'clf__border_count': 64, 'clf__random_strength': 0.1612077574065295, 'clf__scale_pos_weight': 1.0}
+Scores: (0.09269429382594466, 0.13909379889964418, 0.12935217122513165, 0.2472203476840646, 0.23536435636242908, 0.4453394896807145, 0.5152653382630041)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3287
+Weighted Std: 0.1514
+
+Iteration 300:
+Params: {'clf__iterations': 300, 'clf__depth': 8, 'clf__learning_rate': 0.018277088631235228, 'clf__l2_leaf_reg': 10.0, 'clf__bagging_temperature': 0.08179292747117872, 'clf__rsm': 1.0, 'clf__border_count': 49, 'clf__random_strength': 0.4874339615415739, 'clf__scale_pos_weight': 1.0}
+Scores: (0.08424533203763136, 0.14863776472454743, 0.13429593189972297, 0.28875798551448173, 0.22580609327552081, 0.4406991628353232, 0.5135977265627373)
+Weights: (1, 2, 3, 4, 5, 6, 7)
+Weighted Mean: 0.3324
+Weighted Std: 0.1478
+
